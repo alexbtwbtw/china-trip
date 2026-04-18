@@ -18,6 +18,11 @@
 - **Practical:** 10-minute walk to Bell Tower; Metro Line 1 (Wulukou Station) is a 10-minute walk. The property is on Dongxin Street, slightly east of the city-centre cluster — a short taxi or e-bike ride to the Muslim Quarter. No caveats on quality; the only caveat is price.
 - **Book:** [booking.com/hotel/cn/sofitel-legend-peoples-xian](https://www.booking.com/hotel/cn/sofitel-legend-peoples-xian.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
 
+### Photos
+- **Exterior:** ![Sofitel Legend exterior facade](https://www.ahstatic.com/photos/6156_ho_00_p_1024x768.jpg) — [source](https://all.accor.com/hotel/6156/index.en.shtml)
+- **Room:** ![Premier Suite interior](https://www.ahstatic.com/photos/6156_rokgb_00_p_1024x768.jpg) — [source](https://all.accor.com/hotel/6156/index.en.shtml)
+- **Garden:** ![Hotel gardens and grounds](https://www.ahstatic.com/photos/6156_ho_01_p_1024x768.jpg) — [source](https://all.accor.com/hotel/6156/index.en.shtml)
+
 ---
 
 ### 2. Mehood Elegant Hotel Xi'an Bell Tower Yongningmen — "Tang Dynasty Fantasy, Rooftop City Wall Sundowners Included"
@@ -29,6 +34,11 @@
 - **Why it's cool:** Every design decision in this hotel draws on the Tang Dynasty — layered glazed-tile motifs, imperial colour palettes, and an atmosphere described as "a new realm of the Tang." All rooms exceed 38 m² (unusually generous for a Chinese city-centre hotel). The headline feature is the **rooftop bar and terrace**: at night, guests look straight out at the illuminated South Gate and the ancient wall — one of the most cinematic views in Xi'an. The hotel also offers Hanfu (traditional Tang-dynasty clothing) rental for guests who want to photograph themselves against the wall. It sits at No. 2 South Street, metres from Yongningmen metro station and the city wall walkway.
 - **Practical:** 1.2 km to Bell Tower (~15 min walk or 5 min metro); Yongningmen Metro Station (Lines 2 & 14) 460 m. Muslim Quarter is 1.3 km north. The rooftop bar can be crowded on weekends — book a rooftop table in advance.
 - **Book:** [booking.com/hotel/cn/xi-an-zhong-lou-yong-zhu-men-ya-zhi-jiu-dian](https://www.booking.com/hotel/cn/xi-an-zhong-lou-yong-zhu-men-ya-zhi-jiu-dian.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
+
+### Photos
+- **Exterior:** ![Hotel exterior towards city wall](https://ak-d.tripcdn.com/images/1mc3c12000s5wxd3n929A_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/xi-an-hotel-detail-120417383/xi-an-bell-tower-yongningmen-elegant-hotel/photo.html)
+- **Room:** ![Guest room interior](https://ak-d.tripcdn.com/images/1mc6v12000en3dva0DBA8_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/xi-an-hotel-detail-120417383/xi-an-bell-tower-yongningmen-elegant-hotel/photo.html)
+- **View:** ![Rooftop city wall night view](https://ak-d.tripcdn.com/images/1mc2f12000lgnj9gtA023_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/xi-an-hotel-detail-120417383/xi-an-bell-tower-yongningmen-elegant-hotel/photo.html)
 
 ---
 
@@ -42,6 +52,11 @@
 - **Practical:** 650 m to Bell Tower; 400 m to Drum Tower; Yongningmen Metro (Lines 2 & 14) ~800 m. Some guests have noted room temperature control can be inconsistent in the heating/cooling switchover period — May should be fine. Free self-service laundry on multiple floors.
 - **Book:** [booking.com/hotel/cn/xi-an-dong-she-jiu-dian](https://www.booking.com/hotel/cn/xi-an-dong-she-jiu-dian.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
 
+### Photos
+- **Exterior:** ![Eastern House entrance facade](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a8/25/27/caption.jpg?w=1100&h=1100&s=1) — [source](https://www.tripadvisor.com/Hotel_Review-g298557-d11672558-Reviews-Eastern_House_Boutique_Hotel-Xi_an_Shaanxi.html)
+- **Room:** ![Oriental-style guest room](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d4/57/65/caption.jpg?w=900&h=500&s=1) — [source](https://www.tripadvisor.com/Hotel_Review-g298557-d11672558-Reviews-Eastern_House_Boutique_Hotel-Xi_an_Shaanxi.html)
+- **Courtyard:** ![Lantern-lit courtyard](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d4/5e/32/caption.jpg?w=900&h=500&s=1) — [source](https://www.tripadvisor.com/Hotel_Review-g298557-d11672558-Reviews-Eastern_House_Boutique_Hotel-Xi_an_Shaanxi.html)
+
 ---
 
 ### 4. Tang Dynasty Art Garden Hotel — "Three Courtyards, Red Lanterns, Goldfish Ponds — and the Giant Pagoda Next Door"
@@ -54,6 +69,11 @@
 - **Practical:** Located in Qujiang (Furong East Road), 4 km from Bell Tower — best reached by metro (Dayanta Station, Line 3, 430 m from hotel) or taxi (~¥20). A deliberate trade-off: quieter, more cultural, less convenient for the Muslim Quarter. Taxi drivers sometimes struggle to find it — save the Chinese address (西安唐苑艺术酒店, 雁塔区芙蓉东路6-1号). Breakfast (CNY 98/person) is praised for quality but not included in base rate.
 - **Book:** [booking.com/hotel/cn/tang-dynasty-art-garden](https://www.booking.com/hotel/cn/tang-dynasty-art-garden.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
 
+### Photos
+- **Exterior:** ![Tang Dynasty Art Garden Hotel overview](https://ak-d.tripcdn.com/images/20060o000000em2n37437_R_960_660_R5_D.jpg) — [source](https://www.trip.com/hotels/xi-an-hotel-detail-424680/tang-dynasty-art-garden-hotel/)
+- **Room:** ![Traditional Chinese room interior](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/84/17/15/bathroom.jpg?w=700&h=-1&s=1) — [source](https://www.tripadvisor.com/Hotel_Feature-g298557-d1494810-zft1-Tang_Dynasty_Art_Garden_Hotel.html)
+- **Courtyard:** ![Moon-gate courtyard garden](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/84/17/1d/tha-garden-scene.jpg?w=700&h=-1&s=1) — [source](https://www.tripadvisor.com/Hotel_Feature-g298557-d1494810-zft1-Tang_Dynasty_Art_Garden_Hotel.html)
+
 ---
 
 ### 5. Grand Mercure Xi'an on Renmin Square — "1957 Sino-Soviet Landmark, Gardens Inside the Ancient Walls"
@@ -65,6 +85,11 @@
 - **Why it's cool:** In 1957, Xi'an built this low-rise complex as a prestige civic guesthouse in the Sino-Soviet architectural style then fashionable across China — broad symmetrical facades, sweeping stairwells, imperial-scale public rooms. The building survived the reform era intact, and Accor converted it as the Grand Mercure, preserving the Soviet-era bones while fitting it with traditional Oriental interiors: dark lacquer screens, ink-painted silk panels, and furniture that nods to the Tang and Han dynasties. The grounds are remarkable: ancient trees, fountain courtyards, and manicured gardens covering thousands of square metres — genuinely peaceful inside the city walls. The hotel is a 5-minute walk from its sibling the Sofitel Legend, so guests get the aesthetic hit of the heritage complex at roughly a third of the price.
 - **Practical:** ~1 km to Bell Tower; Wulukou Station (Metro Line 1) ~10 min walk. Less prominent location on restaurant reviews — the hotel's own Le Jinlong restaurant is recommended. A slightly longer walk to the Muslim Quarter than hotels 2 and 3, but still well inside the walls.
 - **Book:** [booking.com/hotel/cn/grand-on-renmin-square](https://www.booking.com/hotel/cn/grand-on-renmin-square.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
+
+### Photos
+- **Exterior:** ![Grand Mercure Sino-Soviet facade](https://www.ahstatic.com/photos/5974_ho_00_p_1024x768.jpg) — [source](https://all.accor.com/hotel/5974/index.en.shtml)
+- **Room:** ![Guest room with Chinese decor](https://www.ahstatic.com/photos/5974_ro_00_p_1024x768.jpg) — [source](https://all.accor.com/hotel/5974/index.en.shtml)
+- **Garden:** ![Historic garden courtyard](https://www.ahstatic.com/photos/5974_ho_01_p_1024x768.jpg) — [source](https://all.accor.com/hotel/5974/index.en.shtml)
 
 ---
 
