@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "6b7eea8e9f773a3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5c16c5a1ae26276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df53b3d1d448c5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "itinerary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "itinerary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "714719895610213d",
+    "type": "split",
+    "children": [
+      {
+        "id": "28cc94af70cfe42b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d076097e71345b41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a74585ebcb54f315",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce17ead1fbfb4c5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2eebdd9adfdc26d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b13892df43afe65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3993b353cce93b84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hotels/xian_suites.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for xian_suites"
+            }
+          },
+          {
+            "id": "7270ee8297b82124",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hotels/xian_suites.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from xian_suites"
+            }
+          },
+          {
+            "id": "0d83a6eb3f45163b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "507d274e96356f79",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c1db6597c5ae4cad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hotels/xian_suites.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of xian_suites"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "df53b3d1d448c5f8",
+  "lastOpenFiles": [
+    "hotels/beijing_bedrooms.md",
+    "hotels/beijing_cool.md",
+    "hotels/xian_cool.md",
+    "itinerary.md.tmp.14576.1776528791882",
+    "itinerary.md.tmp.14576.1776528789229",
+    "itinerary.md.tmp.14576.1776528771157",
+    "itinerary.md.tmp.14576.1776528766528",
+    "itinerary.md.tmp.14576.1776528759638",
+    "itinerary.md.tmp.14576.1776528753507",
+    "itinerary.md.tmp.14576.1776528747855",
+    "itinerary.md.tmp.14576.1776528743775",
+    "hotels/xian_suites.md",
+    "itinerary.md.tmp.14576.1776528446034",
+    "itinerary.md.tmp.14576.1776528440041",
+    "agents.md",
+    "hotels/xian.md",
+    "hotels/guangyuan_suites.md",
+    "hotels/chongqing_suites_v2.md",
+    "hotels/guangyuan.md",
+    "itinerary.md",
+    "hotels/beijing.md",
+    "hotels/chengdu_suites.md",
+    "hotels/chengdu.md",
+    "hotels/chongqing_suites.md",
+    "hotels/chongqing_cool.md",
+    "hotels/chongqing_bedrooms.md",
+    "hotels/chongqing.md",
+    "hotels/beijing_suites.md"
+  ]
+}
