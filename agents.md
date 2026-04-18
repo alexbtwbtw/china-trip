@@ -62,11 +62,11 @@ Per city, 3 specialist agents run in parallel:
 - [ ] cool/splurge
 
 ### Xi'an
-- [ ] suites
-- [ ] bedrooms
-- [ ] cool/splurge
+- [x] suites (xian_suites_v2.md)
+- [x] bedrooms (xian_bedrooms.md)
+- [x] cool/splurge (xian_cool.md — 10 picks with photos)
 
 ### Beijing
-- [ ] suites
-- [ ] bedrooms
-- [ ] cool/splurge
+- [x] suites (beijing_suites_v2.md)
+- [x] bedrooms (beijing_bedrooms.md)
+- [x] cool/splurge (beijing_cool.md — photos added)

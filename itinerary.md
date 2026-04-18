@@ -38,11 +38,11 @@ Top pick per city (full shortlists in `hotels/`):
 | Chongqing | ✅ **Booked** | YOLO Eling Art Gallery Hotel | ~£75 | [hotels/chongqing_cool.md](hotels/chongqing_cool.md) |
 | Chengdu | ✅ **Booked** | Lyhn International Hotel Taikoo Li | £38 | [hotels/chengdu.md](hotels/chengdu.md) |
 | ~~Guangyuan~~ | ~~removed~~ | ~~Hampton by Hilton Lizhou Square~~ | ~~£33~~ | ~~removed from itinerary~~ |
-| Xi'an | ⬜ TBD | Holiday Inn Express Bell Tower | £38 · Sun 24 – Wed 27 May | [hotels/xian.md](hotels/xian.md) |
-| Beijing | ⬜ TBD | Guo Ji Yi Yuan Hotel (Wangfujing) | £46 | [hotels/beijing.md](hotels/beijing.md) |
+| Xi'an | 📋 Researched | Holiday Inn Express Bell Tower | £38 · Sun 24 – Wed 27 May | [xian_bedrooms.md](hotels/xian_bedrooms.md), [xian_suites_v2.md](hotels/xian_suites_v2.md), [xian_cool.md](hotels/xian_cool.md) (10 picks) |
+| Beijing | 📋 Researched | Guo Ji Yi Yuan Hotel (Wangfujing) | £46 | [beijing_bedrooms.md](hotels/beijing_bedrooms.md), [beijing_suites_v2.md](hotels/beijing_suites_v2.md), [beijing_cool.md](hotels/beijing_cool.md) |
 
 **Booked:**
 - 🏨 **Chongqing** (19–22 May) — YOLO Eling Art Gallery Hotel, 1930s Republic-era mint, 270° cliff views over the city
 - 🏨 **Chengdu** (22–24 May) — Lyhn International Hotel Taikoo Li, 9.6/10, ~£38/night
 
-**Still to book:** Xi'an · Beijing
+**Still to book:** Xi'an · Beijing (research complete for both — see hotels/ for full shortlists)
