@@ -1,5 +1,10 @@
 # Sub-Agent Task Log
 
+## Standing Rules
+- **Always use `run_in_background: true`** for ALL agents — research, file updates, git, link checkers, everything. No exceptions.
+- As each agent completes, merge its results into `itinerary.md` and commit to git
+- Link checker agents should run after each city's research set is complete
+
 One research agent per city. Each agent returns 3 hotel recommendations meeting: central location, ~£45/night, 4★ minimum.
 
 | Agent | City | Nights | Dates | Output file |
