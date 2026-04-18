@@ -16,6 +16,11 @@
 - **Practical:** On foot from the south gate of Tiananmen Square (~12 min walk); Qianmen Station (Line 2) is 3 minutes on foot. No caveats about noise — the hutong streets are pedestrianised and very quiet at night. Note: you need to be comfortable navigating narrow alleyways to reach your courtyard.
 - **Book:** [mandarinoriental.com](https://www.mandarinoriental.com/en/beijing/qianmen/stay) | [Booking.com](https://www.booking.com/hotel/cn/mandarin-oriental-qianmen-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [Trip.com](https://www.trip.com/hotels/beijing-hotel-detail-122098513/mandarin-oriental-qianmenbeijing/)
 
+### Photos
+- **Exterior:** ![Mandarin Oriental Qianmen — hutong courtyard gate and grey-tile rooflines](https://ak-d.tripcdn.com/images/1rt6p12000nklc8rm2C61_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-122098513/mandarin-oriental-qianmenbeijing/photo.html)
+- **Room:** ![Mandarin Oriental Qianmen — courtyard house guest room, timber beams and private garden](https://ak-d.tripcdn.com/images/1mc1w12000kl1kduo077D_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-122098513/mandarin-oriental-qianmenbeijing/photo.html)
+- **View/Other:** ![Mandarin Oriental Qianmen — Yan Garden Michelin-starred Cantonese restaurant](https://ak-d.tripcdn.com/images/1mc4i12000gb0zausC2C5_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-122098513/mandarin-oriental-qianmenbeijing/photo.html)
+
 ---
 
 ### 2. The PuXuan Hotel and Spa — "Forbidden City views from a contemporary art-tower by Ole Scheeren, steps from Wangfujing"
@@ -27,6 +32,11 @@
 - **Why it's cool:** Designed by German starchitect Ole Scheeren (the man behind Singapore's Interlace and Bangkok's MahaNakhon), PuXuan occupies the upper floors of the Guardian Art Center — a dramatic angular glass building that itself functions as an exhibition space. Every room is oriented to frame uninterrupted Forbidden City or Jingshan Park vistas; the 150 m² PuXuan Suite has a dedicated study, tea preparation area, and arguably the best private Forbidden City sightline in any hotel in Beijing. The spa (UR SPA) is exceptional, with the Michelin One-Star restaurant Fu Chun Ju on-site for refined Huai Yang cuisine. The 116-room scale keeps it genuinely boutique. Opened 2019, it has quietly become the insider's pick for design-literate travellers who want a Forbidden City address without the old-world grandeur of the Peninsula.
 - **Practical:** Metro Line 8 directly outside (National Art Museum station); Forbidden City is a flat 20-minute walk or a 5-minute taxi. Wangfujing shopping street is an 8-minute stroll. Very central — easy base for all major sights.
 - **Book:** [thepuxuan.com](https://thepuxuan.com/en/) | [Booking.com](https://www.booking.com/hotel/cn/pu-xuan-jiu-dian-bei-jing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-28704027/the-puxuan-hotel-and-spa/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1)
+
+### Photos
+- **Exterior:** ![The PuXuan — Ole Scheeren's Guardian Art Center angular glass tower exterior](https://ak-d.tripcdn.com/images/200a190000017cyhgF841_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-28704027/the-puxuan-hotel-and-spa/photo.html)
+- **Room:** ![The PuXuan — Grand Deluxe Room with Forbidden City panoramic view](https://ak-d.tripcdn.com/images/200n10000000pxxb6E143_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-28704027/the-puxuan-hotel-and-spa/photo.html)
+- **View/Other:** ![The PuXuan — featured view of Forbidden City / Jingshan Park from upper floors](https://ak-d.tripcdn.com/images/1mc5d12000d52or967AE9_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-28704027/the-puxuan-hotel-and-spa/photo.html)
 
 ---
 
@@ -40,6 +50,11 @@
 - **Practical:** Dongdaqiao Station (Line 6), 5 minutes walk. Forbidden City is ~25 minutes by metro or taxi. Better positioned for 798 Art District (15 min taxi) and the embassy/expat Sanlitun area (10 min taxi).
 - **Book:** [eclathotels.com/beijing](https://www.eclathotels.com/beijing) | [Booking.com](https://www.booking.com/hotel/cn/eclat-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [KAYAK](https://www.kayak.com/Beijing-Hotels-Hotel-Eclat-Beijing.500861.ksp)
 
+### Photos
+- **Exterior:** ![Hotel Éclat Beijing — glass eco-pyramid Parkview Green FangCaoDi building exterior](https://ak-d.tripcdn.com/images/fd/hotel/g5/M0B/57/BF/CggYsVcgYR-AEoziABFXo0HmFkk808_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-440874/hotel-clat-beijing/photo.html)
+- **Room:** ![Hotel Éclat Beijing — suite interior with private pool and contemporary art](https://ak-d.tripcdn.com/images/1mc2612000c0y9dbb68E7_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-440874/hotel-clat-beijing/photo.html)
+- **View/Other:** ![Hotel Éclat Beijing — indoor pool / leisure area](https://ak-d.tripcdn.com/images/0584z12000eryf4zbB716_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-440874/hotel-clat-beijing/photo.html)
+
 ---
 
 ### 4. The Opposite House — "Kengo Kuma's forest-in-a-city: solid oak soaking tubs, zero branding, and Sanlitun's best bars downstairs"
@@ -52,6 +67,11 @@
 - **Practical:** Walkable to 30+ restaurants and bars. Metro Line 10, Tuanjiehu stop, 10 min walk; taxi to Forbidden City 25 min. No noise issues — the rooms are set back from the street.
 - **Book:** [theoppositehouse.com](https://www.theoppositehouse.com) | [Booking.com](https://www.booking.com/hotel/cn/po-the-opposite-house-hotel-sanlitun.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-199278/the-opposite-house/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1)
 
+### Photos
+- **Exterior:** ![The Opposite House — Kengo Kuma's green-glass layered atrium building exterior, Sanlitun](https://kkaa.co.jp/img/2008/08/MG_2030.jpg) — [source](https://kkaa.co.jp/en/project/the-opposite-house/)
+- **Room:** ![The Opposite House — Studio 45 solid Douglas-fir room with wood bathtub](https://kkaa.co.jp/img/2008/08/web_Studio-45-Bed-and-Bath-600x400.jpg) — [source](https://kkaa.co.jp/en/project/the-opposite-house/)
+- **View/Other:** ![The Opposite House — interior atrium / public area with layered green glass facade](https://kkaa.co.jp/img/2008/08/MG_2102-600x400.jpg) — [source](https://kkaa.co.jp/en/project/the-opposite-house/)
+
 ---
 
 ### 5. Beijing Yihe Hotel (formerly Aman Summer Palace) — "Private gate into the Summer Palace at dawn: 51 courtyard rooms inside a restored Qing imperial retreat"
@@ -63,6 +83,11 @@
 - **Why it's cool:** This is the legendary property that was, for 15 years, considered one of the finest Aman resorts in the world. After the Aman management contract ended in December 2025, the hotel continues under the name Beijing Yihe Hotel ("Yihe" = 颐和, meaning Summer Palace in Chinese) — same staff, same architecture, same extraordinary privilege: a private gate into the Summer Palace grounds that lets guests enter before the public crowds arrive in the morning. The 51 guestrooms and suites are arranged in restored Qing-dynasty courtyard buildings with high ceilings, timber beams, Ming-style furnishings, and private garden access. Breakfast is included. The setting — ancient willow trees, stone bridges, the Long Corridor frescoes through your own garden gate — is simply unavailable anywhere else in Beijing. The recent rebrand may mean slightly lower prices than peak Aman rates; worth calling the hotel directly.
 - **Practical:** 15 km from city centre; a taxi to the Forbidden City takes 35–45 minutes depending on traffic. Not walkable to central Beijing sights — this is a retreat-style base. The hotel runs a shuttle. Metro Line 4 (Beigongmen station) is about 1 km walk.
 - **Book:** [Trip.com](https://www.trip.com/hotels/beijing-hotel-detail-436911/summer-palace-hotel/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1) | [Booking.com](https://www.booking.com/hotel/cn/aman-at-summer-palace-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [KAYAK](https://www.kayak.com/Beijing-Hotels-Aman-at-Summer-Palace.201391.ksp)
+
+### Photos
+- **Exterior:** ![Beijing Yihe Hotel — restored Qing-dynasty courtyard buildings adjacent to Summer Palace East Gate](https://ak-d.tripcdn.com/images/02061120009u2834bC58C_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-436911/summer-palace-hotel/photo.html)
+- **Room:** ![Beijing Yihe Hotel — Qing-dynasty courtyard guestroom with Ming-style furnishings and garden view](https://ak-d.tripcdn.com/images/1mc3312000edqjpvd881A_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-436911/summer-palace-hotel/photo.html)
+- **View/Other:** ![Beijing Yihe Hotel — courtyard garden with ancient willows and stone pavilion](https://ak-d.tripcdn.com/images/1mc1z12000qsegcre349D_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-436911/summer-palace-hotel/photo.html)
 
 ---
 

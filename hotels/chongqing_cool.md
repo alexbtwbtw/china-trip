@@ -10,6 +10,11 @@
 - **Practical:** 1 stop on Metro Line 6 to Xiaoshizi (Hongyadong / Jiefangbei); 10-min drive / cable-car hop across the Jialing. Sky Pool, spa, three restaurants, IFS mall downstairs. Opened 2017, 252 rooms, 9.6/10 across 11,000+ reviews.
 - **Book:** https://www.booking.com/hotel/cn/zhong-qing-ni-yi-ge-luo-jiu-dian.html?checkin=2026-05-19&checkout=2026-05-22&group_adults=1&no_rooms=1 — or Trip.com: https://us.trip.com/hotels/chongqing-hotel-detail-11290129/niccolo-chongqing/?checkIn=2026-05-19&checkOut=2026-05-22
 
+### Photos
+- **Exterior:** ![Niccolo Chongqing — IFS tower exterior, hotel occupies upper floors](https://petervonstamm-travelblog.com/wp-content/uploads/2017/09/Niccolo-Chongqing-forms-the-upper-floors-of-Chongqing-IFS-.jpg) — [source](https://petervonstamm-travelblog.com/niccolo-chongqing-the-sky-hotel/)
+- **Room:** ![Niccolo Chongqing — N2 Grand Riverview Room at night](https://petervonstamm-travelblog.com/wp-content/uploads/2017/09/Niccolo-Chongqing-s-N2-Grand-Riverview-Room.jpg) — [source](https://petervonstamm-travelblog.com/niccolo-chongqing-the-sky-hotel/)
+- **View/Other:** ![Niccolo Chongqing — Sky Pool on Level 52, cantilevered over the city](https://petervonstamm-travelblog.com/wp-content/uploads/2017/09/Niccolo-Chongqing-s-Sky-Pool-on-level-52.jpg) — [source](https://petervonstamm-travelblog.com/niccolo-chongqing-the-sky-hotel/)
+
 ### 2. InterContinental Chongqing Raffles City by IHG — "Inside Moshe Safdie's crystal-sail tower at the tip of the peninsula"
 - **Stars:** 5★
 - **Area:** Yuzhong — Chaotianmen Square, literally at the tip of the peninsula where the Yangtze and Jialing rivers meet. Inside one of the four sail-shaped Safdie towers connected by The Crystal sky-bridge 250 m up.
@@ -17,6 +22,11 @@
 - **Why it's cool:** It's the hotel **inside the Moshe Safdie building** — the Marina Bay Sands 2.0 of Chongqing, CapitaLand's single-largest China project (RMB 24 billion). Executive River View rooms on high floors look straight down onto Chaotianmen Plaza and out over both rivers. Guests can access The Crystal Exploration Deck / sky-bridge infinity pool (clubhouse access depends on room class). Opened 2020, 380 rooms, 9.6/10 on Trip.com across 9,000+ reviews.
 - **Practical:** 2 min walk to Chaotianmen metro (Line 6/Ring); the Raffles City mall is underneath; ~15 min walk to Hongyadong along the Binjiang riverfront, ~20 min walk / 1 metro stop to Jiefangbei. Indoor pool, 5 restaurants, spa, free parking.
 - **Book:** https://www.booking.com/hotel/cn/intercontinental-hotels-chongqing-raffles-city.html?checkin=2026-05-19&checkout=2026-05-22&group_adults=1&no_rooms=1 — or Trip.com: https://us.trip.com/hotels/chongqing-hotel-detail-61905308/intercontinental-chongqing-raffles-city/?checkIn=2026-05-19&checkOut=2026-05-22
+
+### Photos
+- **Exterior:** ![InterContinental Raffles City — Safdie sail-tower exterior, Chaotianmen](https://ak-d.tripcdn.com/images/0201a120008oia0oxB2B8_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/chongqing-hotel-detail-61905308/intercontinental-chongqing-raffles-city/photo.html)
+- **Room:** ![InterContinental Raffles City — river view guest room](https://ak-d.tripcdn.com/images/1mc3k12000fv1ao6iB2AA_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/chongqing-hotel-detail-61905308/intercontinental-chongqing-raffles-city/photo.html)
+- **View/Other:** ![InterContinental Raffles City — river confluence view from hotel](https://ak-d.tripcdn.com/images/0201o120005t5567mD55D_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/chongqing-hotel-detail-61905308/intercontinental-chongqing-raffles-city/photo.html)
 
 ### 3. YOLO Eling Art Gallery Hotel (Erling No. 2 Factory) — "Sleep inside a 1930s Republic-era mint on a 270° cliff platform"
 - **Stars:** 4★ boutique (self-declared; review scores put it well above category)
@@ -26,6 +36,11 @@
 - **Practical:** Up on the Eling ridge — quieter than Jiefangbei, but Liziba monorail and Eling Park are on your doorstep. Taxi or Line 2 metro down to riverfront attractions. Garden, restaurant, hot tub, free parking; pet-friendly (RMB 100/stay).
 - **Book:** https://www.booking.com/hotel/cn/yoloe-ling-mei-zhu-guan-jiu-dian.html?checkin=2026-05-19&checkout=2026-05-22&group_adults=1&no_rooms=1 — or Trip.com: https://us.trip.com/hotels/chongqing-hotel-detail-19067753/yolo-eling-art-gallery-hotel/?checkIn=2026-05-19&checkOut=2026-05-22
 
+### Photos
+- **Exterior:** ![YOLO Eling — 1930s Republic-era mint building exterior, weathered industrial facade](https://ak-d.tripcdn.com/images/1mc1q12000mi4yhck5811_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/chongqing-hotel-detail-19067753/yolo-eling-art-gallery-hotel/photo.html)
+- **Room:** ![YOLO Eling — loft-style art room with floor-to-ceiling windows](https://ak-d.tripcdn.com/images/1mc0v12000mi4qijmA042_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/chongqing-hotel-detail-19067753/yolo-eling-art-gallery-hotel/photo.html)
+- **View/Other:** ![YOLO Eling — 270° cantilevered cliff viewing platform over Yuzhong peninsula skyline](https://ak-d.tripcdn.com/images/1mc5412000mi4xkqz7B2F_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/chongqing-hotel-detail-19067753/yolo-eling-art-gallery-hotel/photo.html)
+
 ### 4. SEYA Panoramic Hotel — Chongqing Jiefangbei Flagship — "58th-floor suite with a window-side bathtub over the cyberpunk skyline"
 - **Stars:** 5★-equivalent design boutique (not star-rated officially; priced and reviewed at luxury tier)
 - **Area:** Yuzhong — 58th floor of Yingli International Financial Center, No. 28 Minquan Rd, 6-min walk to Liberation Monument (Jiefangbei).
@@ -34,6 +49,11 @@
 - **Practical:** On top of Jiefangbei pedestrian street — 6 min walk to the monument, 10 min to Hongyadong top-level entrance, 3 min to Xiaoshizi metro (Lines 1/6). In-room spa / butler / afternoon tea included.
 - **Book:** https://www.booking.com/hotel/cn/iseya-jiefangbei-chongqing-flagship.html?checkin=2026-05-19&checkout=2026-05-22&group_adults=1&no_rooms=1 — or Trip.com: https://us.trip.com/hotels/chongqing-hotel-detail-121892117/seya-panoramic-hotel-chongqing-jiefangbei-flagship/?checkIn=2026-05-19&checkOut=2026-05-22
 
+### Photos
+- **Exterior:** ![SEYA Panoramic — Yingli International Financial Center tower exterior, 58th floor hotel](https://ak-d.tripcdn.com/images/1mc4h12000ezafzaf6294_R_500_400_R5.webp) — [source](https://sg.trip.com/hotels/chongqing-hotel-detail-121892117/seya-panoramic-hotel-chongqing-jiefangbei-flagship/photo.html)
+- **Room:** ![SEYA Panoramic — bathtub suite against window over cyberpunk skyline](https://ak-d.tripcdn.com/images/1mc4k12000g9kzcry585C_R_500_400_R5.webp) — [source](https://sg.trip.com/hotels/chongqing-hotel-detail-121892117/seya-panoramic-hotel-chongqing-jiefangbei-flagship/photo.html)
+- **View/Other:** ![SEYA Panoramic — featured view shot, Chongqing neon grid from 58th floor](https://ak-d.tripcdn.com/images/1mc4g12000f6gdjheA2A5_R_500_400_R5.webp) — [source](https://sg.trip.com/hotels/chongqing-hotel-detail-121892117/seya-panoramic-hotel-chongqing-jiefangbei-flagship/photo.html)
+
 ### 5. The Lixury Hotel — The Unbound Collection by Hyatt, Liberation Square — "Sky lobby on the 69th floor of Chongqing WFC, one of western China's tallest"
 - **Stars:** 5★ (Hyatt's Unbound Collection — the design-forward one-off sibling to Park Hyatt)
 - **Area:** Yuzhong — Floors 58–69 of Chongqing World Financial Center, No. 188 Minzu Road, a 1-min walk from Jiefangbei Liberation Monument, inside the Raffles Plaza block.
@@ -41,6 +61,11 @@
 - **Why it's cool:** It's in the **tallest building in western China** (WFC) with the sky-lobby on floor 69 — a British-style Art-Deco design palette in jade and brass, modern art throughout, every guestroom facing either the Yangtze/Jialing confluence or the Jiefangbei skyline. Nespresso + Dyson in every room, 45 m² Deluxe as the entry size. The most convenient luxury-brand address in the whole city — you can see Jiefangbei Monument out the window.
 - **Practical:** Literally next door to Liberation Monument, 7 min walk to Hongyadong, 2 min to Xiaoshizi metro. Gym + spa but no pool — skip if you want a pool, pick Niccolo or InterContinental for that. 174 rooms, opened 2019.
 - **Book:** https://www.booking.com/hotel/cn/the-lixury.html?checkin=2026-05-19&checkout=2026-05-22&group_adults=1&no_rooms=1 — or Trip.com: https://us.trip.com/hotels/chongqing-hotel-detail-33344529/the-lixury-hotel/?checkIn=2026-05-19&checkOut=2026-05-22
+
+### Photos
+- **Exterior:** ![The Lixury — Chongqing World Financial Center tower exterior, hotel on floors 58–69](https://ak-d.tripcdn.com/images/1mc2212000fs32fkzAD62_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/chongqing-hotel-detail-33344529/the-lixury-hotel/photo.html)
+- **Room:** ![The Lixury — Deluxe River View King room with French windows](https://ak-d.tripcdn.com/images/200n1e000001fiwnl3F53_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/chongqing-hotel-detail-33344529/the-lixury-hotel/photo.html)
+- **View/Other:** ![The Lixury — featured shot, sky lobby / public area on upper floors](https://ak-d.tripcdn.com/images/1mc0w12000aqx4o6c6E61_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/chongqing-hotel-detail-33344529/the-lixury-hotel/photo.html)
 
 ## Notes
 
