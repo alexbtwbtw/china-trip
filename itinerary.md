@@ -1,29 +1,33 @@
 # China Trip Itinerary — May 2026
 
 ## Overview
-- **Duration:** 12 nights (19 May – 31 May 2026)
-- **Cities:** Chongqing → Chengdu → Xi'an → Beijing
+- **Duration:** 15 nights (16 May – 30 May 2026)
+- **Cities:** Shanghai → Chongqing → Chengdu → Xi'an → Beijing
 - **Hotel budget:** 2 rooms/city · £45/room/night target · hard limit £65/room/night · 4★ minimum, central location
-- **Booked:** Chongqing ✅ · Chengdu ✅ · Xi'an ✅ · Beijing ✅
+- **Booked:** Shanghai ✅ · Chongqing ✅ · Chengdu ✅ · Xi'an ✅ · Beijing ✅
 
 ## Schedule
 
 | Date       | Day | City            | Nights |
 | ---------- | --- | --------------- | ------ |
-| Tue 19 May | 1   | Chongqing       | night 1 |
-| Wed 20 May | 2   | Chongqing       | night 2 |
-| Thu 21 May | 3   | Chongqing       | night 3 |
-| Fri 22 May | 4   | Chengdu         | night 1 |
-| Sat 23 May | 5   | Chengdu         | night 2 |
-| Sun 24 May | 6   | Xi'an           | night 1 |
-| Mon 25 May | 7   | Xi'an           | night 2 |
-| Tue 26 May | 8   | Beijing         | night 1 |
-| Wed 27 May | 9   | Beijing         | night 2 |
-| Thu 28 May | 10  | Beijing         | night 3 |
-| Fri 29 May | 11  | Beijing         | night 4 |
-| Sat 30 May | 12  | Beijing         | night 5 |
+| Fri 16 May | 1   | Shanghai        | night 1 |
+| Sat 17 May | 2   | Shanghai        | night 2 |
+| Sun 18 May | 3   | Shanghai        | night 3 |
+| Mon 19 May | 4   | Chongqing       | night 1 |
+| Tue 20 May | 5   | Chongqing       | night 2 |
+| Wed 21 May | 6   | Chongqing       | night 3 |
+| Thu 22 May | 7   | Chengdu         | night 1 |
+| Fri 23 May | 8   | Chengdu         | night 2 |
+| Sat 24 May | 9   | Xi'an           | night 1 |
+| Sun 25 May | 10  | Xi'an           | night 2 |
+| Mon 26 May | 11  | Beijing         | night 1 |
+| Tue 27 May | 12  | Beijing         | night 2 |
+| Wed 28 May | 13  | Beijing         | night 3 |
+| Thu 29 May | 14  | Beijing         | night 4 |
+| Fri 30 May | 15  | Beijing         | night 5 |
 
 ## Nights per City
+- Shanghai: 3
 - Chongqing: 3
 - Chengdu: 2
 - Xi'an: 2
@@ -35,6 +39,7 @@ Top pick per city (full shortlists in `hotels/`):
 
 | City | Status | Hotel | ~£/night | Detail |
 |------|--------|-------|----------|--------|
+| Shanghai | ✅ Booked | The Bund Puyan Hotel | — | — |
 | Chongqing | ✅ **Booked** | YOLO Eling Art Gallery Hotel | ~£75 | [hotels/chongqing_cool.md](hotels/chongqing_cool.md) |
 | Chengdu | ✅ **Booked** | Lyhn International Hotel Taikoo Li | £38 | [hotels/chengdu.md](hotels/chengdu.md) |
 | ~~Guangyuan~~ | ~~removed~~ | ~~Hampton by Hilton Lizhou Square~~ | ~~£33~~ | ~~removed from itinerary~~ |
@@ -42,6 +47,7 @@ Top pick per city (full shortlists in `hotels/`):
 | Beijing | ✅ **Booked** | NOA Hotel Beijing Longfu (The Forbidden City) | £46 | Tue 26 – Sun 31 May · [beijing_bedrooms.md](hotels/beijing_bedrooms.md), [beijing_suites_v2.md](hotels/beijing_suites_v2.md), [beijing_cool.md](hotels/beijing_cool.md) |
 
 **Booked:**
+- 🏨 **Shanghai** (16–19 May) — The Bund Puyan Hotel, The Bund
 - 🏨 **Chongqing** (19–22 May) — YOLO Eling Art Gallery Hotel, 1930s Republic-era mint, 270° cliff views over the city
 - 🏨 **Chengdu** (22–24 May) — Lyhn International Hotel Taikoo Li, 9.6/10, ~£38/night
 - 🏨 **Xi'an** (24–26 May) — WALL Hotel Chang'an, 11-room micro-boutique against the city wall, ~£35/room/night
