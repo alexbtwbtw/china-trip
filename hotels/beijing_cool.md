@@ -1,108 +1,126 @@
 # Beijing — Cool & Unique Stays (4 nights, Wed 27 – Sun 31 May 2026)
+*Target £45/room · hard limit £65/room · 2 rooms needed*
 
-**Exchange rate used:** 1 USD ≈ £0.80 | 1 CNY ≈ £0.11 (April 2026 approximation)
-
----
-
-## Recommendations
-
-### 1. Mandarin Oriental Qianmen, Beijing — "Sleep inside a living hutong: 42 restored Qing-dynasty courtyards steps from Tiananmen"
-
-- **Stars:** 5★ (Forbes Five-Star 2026; #1 of 3,571 Beijing hotels on TripAdvisor; #14 World's 50 Best Hotels 2025)
-- **Area:** Qianmen / Dongcheng — the historic hutong lanes immediately south of Tiananmen Square. The Forbidden City's south gate (Meridian Gate) is a 12-minute walk; Qianmen subway station (Line 2) is right outside.
-- **Price/room/night:** ~£1,040 (approx. CNY 12,888 / $1,630 USD — Courtyard House, the entry-level room at 110 m²). Rates vary; TripAdvisor shows a range of $1,633–$3,292/night depending on room.
-- **Total for 2 rooms, 4 nights:** ~£33,000+ (this is the splurge pick by a wide margin — see Notes)
-- **Why it's cool:** Opened September 2024 and instantly named the World's Best New Hotel (Nikka Award, World's 50 Best Hotels 2025), this is not a hotel in the conventional sense — it is 42 individually restored siheyuan (traditional courtyard houses) scattered across the actual hutong lanes of Qianmen, where local residents still live. Each courtyard house stands behind its own wooden gate, features original timber beams and grey-tile roofs, heated floors, sliding glass doors opening onto a private garden, and interiors of brushed brass, custom ceramics, and bespoke textiles in neutral tones. There is no single lobby building: staff guide you through the alleyways to your own private dwelling. The hotel has a Michelin-starred Cantonese restaurant (Yan Garden, by celebrated chef Fei), an Italian bistro (VICINI), a Maple Lounge for afternoon tea, and the rooftop cocktail bar TIAO with panoramic hutong views. American Express Fine Hotels + Resorts is currently offering a complimentary third night for travel between May–September 2026 (booked by Sep 2026), which meaningfully reduces the total cost if used.
-- **Practical:** On foot from the south gate of Tiananmen Square (~12 min walk); Qianmen Station (Line 2) is 3 minutes on foot. No caveats about noise — the hutong streets are pedestrianised and very quiet at night. Note: you need to be comfortable navigating narrow alleyways to reach your courtyard.
-- **Book:** [mandarinoriental.com](https://www.mandarinoriental.com/en/beijing/qianmen/stay) | [Booking.com](https://www.booking.com/hotel/cn/mandarin-oriental-qianmen-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [Trip.com](https://www.trip.com/hotels/beijing-hotel-detail-122098513/mandarin-oriental-qianmenbeijing/)
-
-### Photos
-- **Exterior:** ![Mandarin Oriental Qianmen — hutong courtyard gate and grey-tile rooflines](https://ak-d.tripcdn.com/images/1rt6p12000nklc8rm2C61_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-122098513/mandarin-oriental-qianmenbeijing/photo.html)
-- **Room:** ![Mandarin Oriental Qianmen — courtyard house guest room, timber beams and private garden](https://ak-d.tripcdn.com/images/1mc1w12000kl1kduo077D_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-122098513/mandarin-oriental-qianmenbeijing/photo.html)
-- **View/Other:** ![Mandarin Oriental Qianmen — Yan Garden Michelin-starred Cantonese restaurant](https://ak-d.tripcdn.com/images/1mc4i12000gb0zausC2C5_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-122098513/mandarin-oriental-qianmenbeijing/photo.html)
+**Exchange rate used:** 1 USD ≈ £0.78 | 1 CNY ≈ £0.11 (April 2026 approximation)
 
 ---
 
-### 2. The PuXuan Hotel and Spa — "Forbidden City views from a contemporary art-tower by Ole Scheeren, steps from Wangfujing"
+## Budget Cool Picks (under £65/room)
 
-- **Stars:** 5★ (Leading Hotels of the World; MICHELIN Guide Hotels)
-- **Area:** Dongcheng / Wangfujing — inside the Guardian Art Center at the intersection of Wangfujing Street and Wusi Street. The Forbidden City's East Gate (Donghua Men) is a 1.7 km / 20-minute walk; National Art Museum subway stop (Line 8) is directly outside.
-- **Price/room/night:** ~£310 ($389 USD — Grand Deluxe Room, Forbidden City view, 50 m²). Mid-range suite options start around $550+.
-- **Total for 2 rooms, 4 nights (Grand Deluxe):** ~£2,480
-- **Why it's cool:** Designed by German starchitect Ole Scheeren (the man behind Singapore's Interlace and Bangkok's MahaNakhon), PuXuan occupies the upper floors of the Guardian Art Center — a dramatic angular glass building that itself functions as an exhibition space. Every room is oriented to frame uninterrupted Forbidden City or Jingshan Park vistas; the 150 m² PuXuan Suite has a dedicated study, tea preparation area, and arguably the best private Forbidden City sightline in any hotel in Beijing. The spa (UR SPA) is exceptional, with the Michelin One-Star restaurant Fu Chun Ju on-site for refined Huai Yang cuisine. The 116-room scale keeps it genuinely boutique. Opened 2019, it has quietly become the insider's pick for design-literate travellers who want a Forbidden City address without the old-world grandeur of the Peninsula.
-- **Practical:** Metro Line 8 directly outside (National Art Museum station); Forbidden City is a flat 20-minute walk or a 5-minute taxi. Wangfujing shopping street is an 8-minute stroll. Very central — easy base for all major sights.
-- **Book:** [thepuxuan.com](https://thepuxuan.com/en/) | [Booking.com](https://www.booking.com/hotel/cn/pu-xuan-jiu-dian-bei-jing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-28704027/the-puxuan-hotel-and-spa/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1)
+### 1. Beijing Shichahai Shadow Art Performance Courtyard — "Free shadow puppet theatre in a 4-star courtyard hotel, tucked deep in the hutong between Houhai and Prince Kung's Mansion"
+
+- **Stars:** 4★
+- **Area:** Xicheng — No. 24 Songshu Street, a narrow hutong a few minutes' walk from Houhai Lake and Prince Kung's Palace Museum. Shichahai Metro (Line 8) is about 15 minutes on foot; Beihai North Station (Line 4) is 11 minutes walk. The Forbidden City's back gate is about 3 km / 30 minutes by taxi.
+- **Price/room/night:** £42–57 (from CNY 383 / ~$59 at base rates; mid-range rooms typically $59–$90. May 2026 peak rates may be towards the higher end — verify at booking.)
+- **Total for 2 rooms, 4 nights (base rate):** ~£336–456
+- **Why it's cool:** This 25-room 4-star courtyard hotel has one of the genuinely great gimmicks in Beijing hospitality: a shadow puppet theatre inside the central courtyard, with free shows every Tuesday, Thursday, and Saturday evening — an art form with 2,000 years of Chinese history performed in miniature for guests. Daily workshops (puppet painting, dumpling making, paper-cutting) are complimentary for guests. The building itself is a classic hutong property with traditional courtyard layout and a garden café, and the neighbourhood is the real Shichahai hutong district, a 15-minute walk from Houhai's lakeside bars. Rated 9.6/10 (Outstanding, 785 Trip.com reviews) and ranked #66 of 3,571 Beijing hotels on TripAdvisor — remarkable for a hotel at this price. The service scores (9.8/10) are the standout.
+- **Practical:** Not near a metro — the main access is on foot or by taxi/rickshaw. Some rooms are small. Best suited for travellers who want to genuinely be inside a hutong neighbourhood rather than adjacent to one.
+- **Book:** [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-374796/beijing-shichahai-shadow-art-performance-courtyard/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1) | [Booking.com](https://www.booking.com/hotel/cn/shichahai-shadow-art-performance.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [KAYAK](https://www.kayak.com/Beijing-Hotels-Shichahai-Shadow-Art-Performance-Hotel.413636.ksp)
 
 ### Photos
-- **Exterior:** ![The PuXuan — Ole Scheeren's Guardian Art Center angular glass tower exterior](https://ak-d.tripcdn.com/images/200a190000017cyhgF841_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-28704027/the-puxuan-hotel-and-spa/photo.html)
-- **Room:** ![The PuXuan — Grand Deluxe Room with Forbidden City panoramic view](https://ak-d.tripcdn.com/images/200n10000000pxxb6E143_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-28704027/the-puxuan-hotel-and-spa/photo.html)
-- **View/Other:** ![The PuXuan — featured view of Forbidden City / Jingshan Park from upper floors](https://ak-d.tripcdn.com/images/1mc5d12000d52or967AE9_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-28704027/the-puxuan-hotel-and-spa/photo.html)
+- **Exterior:** ![Shichahai Shadow Art Courtyard — traditional courtyard hotel entrance and grey-tile roofline](https://ak-d.tripcdn.com/images/200b0d0000006v9keE559_R_960_274_R5_Q10.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-374796/beijing-shichahai-shadow-art-performance-courtyard/photo.html)
+- **Room:** ![Shichahai Shadow Art — traditional-style guestroom with Chinese furnishings](https://ak-d.tripcdn.com/images/200n1b000001by24807B0_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-374796/beijing-shichahai-shadow-art-performance-courtyard/photo.html)
+- **Unique feature:** ![Shichahai Shadow Art — garden café and leisure courtyard area where shadow puppet shows are held](https://ak-d.tripcdn.com/images/200c070000002ddbm51D8_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-374796/beijing-shichahai-shadow-art-performance-courtyard/photo.html)
 
 ---
 
-### 3. Hotel Éclat Beijing — "A private-pool suite inside Asia's largest Dalí collection, wrapped in a glass pyramid"
+### 2. Junhefu Courtyard Hotel — "A 300-year-old Qing Dynasty military officer's mansion in Baochao Hutong, serving free Beijing-style breakfast in a wisteria courtyard"
 
-- **Stars:** 5★ (MICHELIN Key; #3 of 3,571 Beijing hotels on TripAdvisor; Condé Nast Readers' Choice #1 Hotel in China 2023)
-- **Area:** Chaoyang / CBD / Ritan — inside Parkview Green FangCaoDi, Beijing's striking glass eco-pyramid near the embassy district. About 7 km from the Forbidden City; Dongdaqiao subway station (Line 6) is a 5-minute walk.
-- **Price/room/night:** ~£105–135 ($133–170 USD — Deluxe Room or Grand Deluxe with Terrace). Themed suites with private pools start at ~$600+/night.
-- **Total for 2 rooms, 4 nights (Deluxe):** ~£840–1,080
-- **Why it's cool:** This all-suite boutique is one of the world's most eccentric hotels. Every suite — 100 rooms total, 20 of them individually themed (Paris, Swiss Cabin, the London Suite) — includes a 5-metre heated private swimming pool, a Bang & Olufsen sound system, a massage chair, and Blu-Ray player. The common areas function as a live gallery: original Salvador Dalí sculptures greet you at the entrance, Warhol and Francis Bacon hang in corridors, and Chinese contemporary masters (Zeng Fanzhi, Zhang Xiaogang) are spread across every floor, each with a QR code art label. The hotel is currently hosting "Poetic Dwelling" (May–November 2025) with over 90 works. The Parkview Green building itself is a climate-controlled glass biosphere — no Beijing pollution inside. For the price of a Deluxe Room (no private pool) this is extraordinary value; the themed pool suites are a true splurge.
-- **Practical:** Dongdaqiao Station (Line 6), 5 minutes walk. Forbidden City is ~25 minutes by metro or taxi. Better positioned for 798 Art District (15 min taxi) and the embassy/expat Sanlitun area (10 min taxi).
-- **Book:** [eclathotels.com/beijing](https://www.eclathotels.com/beijing) | [Booking.com](https://www.booking.com/hotel/cn/eclat-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [KAYAK](https://www.kayak.com/Beijing-Hotels-Hotel-Eclat-Beijing.500861.ksp)
+- **Stars:** 3★ boutique
+- **Area:** Dongcheng — Baochao Hutong (literally: Precious Banknote Alley), a hutong with documented history stretching back to the Yuan Dynasty (700+ years). The predecessor of this hotel was the residence of Ren Zan, a third-rank Qing Dynasty military official. Guloudajie Metro (Lines 2 & 8) is 710 m away. Bell and Drum Towers are a 5-minute walk; Nanluoguxiang is 10 minutes; Forbidden City is 3.5 km.
+- **Price/room/night:** £17–45 (from ~$22 off-season; typical double room ~$38–50 in peak season. May 2026 verify at booking — rates are genuinely affordable.)
+- **Total for 2 rooms, 4 nights (mid-rate ~£35/room):** ~£280
+- **Why it's cool:** The hotel occupies a standard two-entry quadrangle courtyard (siheyuan) with its original gate tower, drum-shaped gate stones (a symbol of military rank), a moon gate between the main courtyard rooms, and mature golden silk jujube and wisteria trees that would have shaded the original residents. You sleep inside an authentic Qing Dynasty mansion on one of Beijing's oldest documented alleyways — not a theme-park reconstruction but a real building with 300 years of layered history. Free Chinese breakfast (local cuisine, served 7:30–9:30 am) is included. Rated 9.1/10 (914 reviews) with particular praise for service (9.3/10) and the location. It is intimate, genuinely budget-priced, and in the heart of the city's best hutong neighbourhood.
+- **Practical:** Rooms are on the smaller side (expected for a traditional courtyard conversion). Some noise from the hutong street in lighter rooms. Luggage-friendly but narrow alleyway — no taxi access to the door. Very walkable location.
+- **Book:** [Trip.com](https://www.trip.com/hotels/beijing-hotel-detail-374774/junhefu-courtyard-hotel/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1) | [Booking.com](https://www.booking.com/hotel/cn/jun-he-fu-si-he-yuan-jiu-dian.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [Expedia](https://www.expedia.com/Beijing-Hotels-Junhefu-Courtyard-Hotel.h118697022.Hotel-Information)
 
 ### Photos
-- **Exterior:** ![Hotel Éclat Beijing — glass eco-pyramid Parkview Green FangCaoDi building exterior](https://ak-d.tripcdn.com/images/fd/hotel/g5/M0B/57/BF/CggYsVcgYR-AEoziABFXo0HmFkk808_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-440874/hotel-clat-beijing/photo.html)
-- **Room:** ![Hotel Éclat Beijing — suite interior with private pool and contemporary art](https://ak-d.tripcdn.com/images/1mc2612000c0y9dbb68E7_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-440874/hotel-clat-beijing/photo.html)
-- **View/Other:** ![Hotel Éclat Beijing — indoor pool / leisure area](https://ak-d.tripcdn.com/images/0584z12000eryf4zbB716_R_500_400_R5.webp) — [source](https://us.trip.com/hotels/beijing-hotel-detail-440874/hotel-clat-beijing/photo.html)
+- **Exterior:** ![Junhefu Courtyard Hotel — traditional siheyuan gate with drum stones and grey-tile rooflines in Baochao Hutong](https://ak-d.tripcdn.com/images/1mc6512000iy3b5m13BBB_R_960_274_R5_Q10.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-374774/junhefu-courtyard-hotel/photo.html)
+- **Room:** ![Junhefu Courtyard Hotel — traditional guestroom with wooden furniture and courtyard window](https://ak-d.tripcdn.com/images/1mc2u12000azfqt3x8312_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-374774/junhefu-courtyard-hotel/photo.html)
+- **Unique feature:** ![Junhefu Courtyard Hotel — courtyard with wisteria and moon gate, traditional Qing Dynasty architecture](https://ak-d.tripcdn.com/images/1mc0712000azfoqyc37A0_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-374774/junhefu-courtyard-hotel/photo.html)
 
 ---
 
-### 4. The Opposite House — "Kengo Kuma's forest-in-a-city: solid oak soaking tubs, zero branding, and Sanlitun's best bars downstairs"
+### 3. Nostalgia Hotel Beijing (Fangjia Hutong / Lama Temple) — "Seventy-five rooms of hand-painted Beijing nostalgia: white rabbit candy, rotary phones, and three floors of hutong murals"
 
-- **Stars:** 5★
-- **Area:** Sanlitun / Chaoyang — at the heart of The Village at Sanlitun, Beijing's most vibrant dining and nightlife district. Tuanjiehu subway station (Line 10) is 10 minutes on foot; the Forbidden City is ~8 km / 20–25 minutes by metro or taxi.
-- **Price/room/night:** ~£175–220 ($219–280 USD — Studio or standard room). Rates fluctuate; KAYAK has shown deals from $175.
-- **Total for 2 rooms, 4 nights:** ~£1,400–1,760
-- **Why it's cool:** Completed in 2008 by Kengo Kuma (the architect of Tokyo's Olympic Stadium), The Opposite House reinterpreted the Beijing siheyuan courtyard concept as a 5-storey vertical atrium wrapped in layers of green glass. The 99 rooms are done almost entirely in warm Douglas fir — floors, ceilings, walls, and even the deep oval bathtubs are solid wood. There is no lobby desk, no uniforms, no visible branding; the experience feels more like checking into an exceptionally considered art residence. Jing Yaa Tang in the basement serves the best Peking Duck in Sanlitun. The hotel also operates Sureno (Italian, wood-fire grill) and has a smart lap pool and spa. It is not a hutong or imperial-palace property, but its architectural pedigree and effortless cool are unmatched in Beijing. A 2022–23 renovation refreshed all rooms without diluting the Kuma aesthetic.
-- **Practical:** Walkable to 30+ restaurants and bars. Metro Line 10, Tuanjiehu stop, 10 min walk; taxi to Forbidden City 25 min. No noise issues — the rooms are set back from the street.
-- **Book:** [theoppositehouse.com](https://www.theoppositehouse.com) | [Booking.com](https://www.booking.com/hotel/cn/po-the-opposite-house-hotel-sanlitun.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-199278/the-opposite-house/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1)
+- **Stars:** 3★ boutique
+- **Area:** Dongcheng — Fangjia Hutong, tucked inside a Creative Cultural Park behind Yonghegong Lama Temple. This is a genuinely residential hutong neighbourhood, quiet and local. Yonghegong Metro (Lines 2 & 5) is steps away — the best-connected location of any budget pick. Lama Temple is 3 minutes' walk; Confucius Temple is 5 minutes; Nanluoguxiang is 15 minutes; Forbidden City is 3 km.
+- **Price/room/night:** £37–63 ($47–81; May peak likely towards the higher end of range — verify at booking.)
+- **Total for 2 rooms, 4 nights (mid-rate ~£52/room):** ~£416
+- **Why it's cool:** The Nostalgia Hotel has a committed design concept executed with real care. The three guestroom floors each have a different theme — "Roam in Hutong," "Roam in Memory," and "Roam in Childhood" — and every room is individually painted by hand with murals from that theme. Expect solid wood furniture, retro rotary telephones, enamel cups with revolutionary-era slogans, tin-plate wall art, and a packet of White Rabbit milk candy on your pillow (a nostalgia sweet beloved by every Chinese person over 30). The hotel is rated #1 boutique hotel in Beijing on TripAdvisor (4.4/5 from 203 reviews, 9.5/10 from 1,780 Trip.com reviews). The hutong location is genuinely quiet — the hotel sits inside a courtyard compound off the main alley, buffered from street noise — and the neighbourhood gives an authentic slice of Beijing daily life.
+- **Practical:** Very metro-convenient. Rooms are compact (common for hutong-area hotels). No in-house restaurant, but Fangjia Hutong's café and street food scene is excellent. Free WiFi.
+- **Book:** [Trip.com](https://www.trip.com/hotels/beijing-hotel-detail-1181544/nostalgia-hotelbeijing-yonghelama/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1) | [Booking.com](https://www.booking.com/hotel/cn/bei-jing-shi-guang-man-bu-huai-jiu-zhu-ti-jiu-dian-guo-zi-jian-dian.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [KAYAK](https://www.kayak.com/Beijing-Hotels-Nostalgia-Hotel-Beijing-Confucius-Temple.778936.ksp)
 
 ### Photos
-- **Exterior:** ![The Opposite House — Kengo Kuma's green-glass layered atrium building exterior, Sanlitun](https://kkaa.co.jp/img/2008/08/MG_2030.jpg) — [source](https://kkaa.co.jp/en/project/the-opposite-house/)
-- **Room:** ![The Opposite House — Studio 45 solid Douglas-fir room with wood bathtub](https://kkaa.co.jp/img/2008/08/web_Studio-45-Bed-and-Bath-600x400.jpg) — [source](https://kkaa.co.jp/en/project/the-opposite-house/)
-- **View/Other:** ![The Opposite House — interior atrium / public area with layered green glass facade](https://kkaa.co.jp/img/2008/08/MG_2102-600x400.jpg) — [source](https://kkaa.co.jp/en/project/the-opposite-house/)
+- **Exterior:** ![Nostalgia Hotel Beijing — traditional courtyard exterior in Fangjia Hutong](https://ak-d.tripcdn.com/images/0205e120008pcq7i357A3_R_960_660_R5_D.jpg) — [source](https://www.trip.com/hotels/beijing-hotel-detail-1181544/nostalgia-hotelbeijing-yonghelama/photo.html)
+- **Room:** ![Nostalgia Hotel Beijing — nostalgic-themed room with hand-painted hutong murals, rotary phone and retro furnishings](https://ak-d.tripcdn.com/images/02020120008pfye2eE87C_R_339_206_R5_D.jpg) — [source](https://www.trip.com/hotels/beijing-hotel-detail-1181544/nostalgia-hotelbeijing-yonghelama/photo.html)
+- **Unique feature:** ![Nostalgia Hotel Beijing — courtyard garden with traditional architecture and lanterns](https://ak-d.tripcdn.com/images/200u0i00000097etd24F9_R_339_206_R5_D.jpg) — [source](https://www.trip.com/hotels/beijing-hotel-detail-1181544/nostalgia-hotelbeijing-yonghelama/photo.html)
 
 ---
 
-### 5. Beijing Yihe Hotel (formerly Aman Summer Palace) — "Private gate into the Summer Palace at dawn: 51 courtyard rooms inside a restored Qing imperial retreat"
+### 4. Xinyuan Hotel 1875 — "A century-old public bathhouse on Yandai Xie Street, reborn as a boutique hotel: 200 m from the metro, 50 m from Houhai"
 
-- **Stars:** 5★ (formerly Aman; now operating as Beijing Yihe Hotel since 30 Dec 2025; rated 9.5/10 on Trip.com from 638 reviews)
-- **Area:** Haidian / Summer Palace — set within the grounds adjacent to the East Gate of the UNESCO World Heritage Summer Palace, 15 km northwest of the Forbidden City.
-- **Price/room/night:** ~£515 ($645 USD — entry-level Deluxe Room). Average nightly rate is significantly higher (~$3,171 USD for larger suite configurations). Standard double rooms from ~$645.
-- **Total for 2 rooms, 4 nights (Deluxe):** ~£4,120
-- **Why it's cool:** This is the legendary property that was, for 15 years, considered one of the finest Aman resorts in the world. After the Aman management contract ended in December 2025, the hotel continues under the name Beijing Yihe Hotel ("Yihe" = 颐和, meaning Summer Palace in Chinese) — same staff, same architecture, same extraordinary privilege: a private gate into the Summer Palace grounds that lets guests enter before the public crowds arrive in the morning. The 51 guestrooms and suites are arranged in restored Qing-dynasty courtyard buildings with high ceilings, timber beams, Ming-style furnishings, and private garden access. Breakfast is included. The setting — ancient willow trees, stone bridges, the Long Corridor frescoes through your own garden gate — is simply unavailable anywhere else in Beijing. The recent rebrand may mean slightly lower prices than peak Aman rates; worth calling the hotel directly.
-- **Practical:** 15 km from city centre; a taxi to the Forbidden City takes 35–45 minutes depending on traffic. Not walkable to central Beijing sights — this is a retreat-style base. The hotel runs a shuttle. Metro Line 4 (Beigongmen station) is about 1 km walk.
-- **Book:** [Trip.com](https://www.trip.com/hotels/beijing-hotel-detail-436911/summer-palace-hotel/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1) | [Booking.com](https://www.booking.com/hotel/cn/aman-at-summer-palace-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) | [KAYAK](https://www.kayak.com/Beijing-Hotels-Aman-at-Summer-Palace.201391.ksp)
+- **Stars:** Boutique (unrated; meets 4★ standards per guest reviews)
+- **Area:** Xicheng — No. 21 Yandai Xie Street (Tobacco Pouch Oblique Street), one of Beijing's most atmospheric historic shopping lanes, running from Drum Tower to the north shore of Houhai Lake. Shichahai Metro (Line 8) is 200 m away — the closest metro-to-hotel distance of any pick here. Houhai waterfront is 50 m. Drum Tower is 2 minutes' walk; Nanluoguxiang is 15 minutes; Forbidden City is 2.5 km.
+- **Price/room/night:** ~£40–60 (new 2025 hotel; pricing comparable to similar boutique properties in the area. Verify at booking — the hotel opened in 2025 and rates are not yet widely published.)
+- **Total for 2 rooms, 4 nights:** ~£320–480 (estimate)
+- **Why it's cool:** Opened 2025, this is the best-located new boutique on Beijing's most evocative historic street. Yandai Xie Street — "Tobacco Pouch Lane" — got its name from the shops that once sold pipes and tobacco to the imperial court in the Qing era; today it is a 300-metre stretch of low-slung brick shopfronts, antique dealers, tea houses, and snack stalls. The building itself is a former 1875-era public bathhouse (the year is in the name), converted with what guests describe as "ancient charm blended with modern intelligence": zero-pressure mattresses, smart room controls, high-quality toiletries, but the bones and character of the old bathhouse intact. Rated 9.7/10 (115 reviews) in its first months of operation — a very promising debut.
+- **Practical:** Excellent metro access. Houhai bar-street noise could carry at night — ask for a courtyard-facing or quieter room. Being new, fewer reviews than the other picks; a slight wildcard but the early signs are excellent.
+- **Book:** [Trip.com](https://ca.trip.com/hotels/beijing-hotel-detail-132411993/xinyuan-hotel-1875/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1)
 
 ### Photos
-- **Exterior:** ![Beijing Yihe Hotel — restored Qing-dynasty courtyard buildings adjacent to Summer Palace East Gate](https://ak-d.tripcdn.com/images/02061120009u2834bC58C_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-436911/summer-palace-hotel/photo.html)
-- **Room:** ![Beijing Yihe Hotel — Qing-dynasty courtyard guestroom with Ming-style furnishings and garden view](https://ak-d.tripcdn.com/images/1mc3312000edqjpvd881A_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-436911/summer-palace-hotel/photo.html)
-- **View/Other:** ![Beijing Yihe Hotel — courtyard garden with ancient willows and stone pavilion](https://ak-d.tripcdn.com/images/1mc1z12000qsegcre349D_R_500_400_R5.webp) — [source](https://www.trip.com/hotels/beijing-hotel-detail-436911/summer-palace-hotel/photo.html)
+- **Exterior:** ![Xinyuan Hotel 1875 — boutique hotel facade on Yandai Xie Street, the historic Tobacco Pouch Lane near Houhai](https://ak-d.tripcdn.com/images/1mc0g12000pnflogl1408_R_960_660_R5_D.jpg) — [source](https://ca.trip.com/hotels/beijing-hotel-detail-132411993/xinyuan-hotel-1875/photo.html)
+- **Room:** ![Xinyuan Hotel 1875 — modern boutique room with classic bathhouse-era brick detailing and smart amenities](https://ak-d.tripcdn.com/images/1mc5s12000pnp8myc48BC_R_339_206_R5_D.jpg) — [source](https://ca.trip.com/hotels/beijing-hotel-detail-132411993/xinyuan-hotel-1875/photo.html)
+- **Unique feature:** ![Xinyuan Hotel 1875 — traditional corridor and architectural details of the converted 1875 bathhouse building](https://ak-d.tripcdn.com/images/1mc4g12000pnfm7xeA2A0_R_339_206_R5_D.jpg) — [source](https://ca.trip.com/hotels/beijing-hotel-detail-132411993/xinyuan-hotel-1875/photo.html)
+
+---
+
+### 5. Manxin Mansion Drum Tower Courtyard — "A 400-year-old Ming Dynasty siheyuan steps from Houhai and Drum Tower, from £26/room — with complimentary Beijing-style welcome dinner"
+
+- **Stars:** 4★
+- **Area:** Xicheng — 2 Xitao Hutong, Old Gulou Street. Steps from the north shore of Houhai Lake and the Bell and Drum Towers — the heart of old Beijing's imperial leisure district. Shichahai Metro (Line 8) is approximately 8 minutes on foot. Guloudajie Station (Lines 2 & 8) is also nearby. Nanluoguxiang is a 10-minute walk; Forbidden City is 2.5 km.
+- **Price/room/night:** £26–60 (from ~$33; May 2026 peak likely £45–60. Prices fluctuate — verify at booking. This is a consistently affordable property despite its 4-star quality and 9.7/10 rating.)
+- **Total for 2 rooms, 4 nights (mid-rate ~£50/room):** ~£400
+- **Why it's cool:** Manxin Hotels is a Chinese boutique chain that has cornered the market on well-priced authentic siheyuan conversions, and this Drum Tower property is the best of the range. The building is documented as a 400-year-old Ming Dynasty residence, with carved beams, painted eaves and bracket sets, upturned rooflines, and a traditional three-entry courtyard layout intact — all now fitted with voice-controlled smart room technology, King Koil mattresses, and high-quality linens. On first check-in, guests receive a complimentary welcome buffet dinner of Beijing cuisine in the courtyard. The location — a short walk from Houhai's willow-lined lakeside and directly below the Drum Tower — is exactly where you want to be in old Beijing. Rated 9.7/10 from 3,544 reviews, with exceptional scores for location and service.
+- **Practical:** Highly walkable to some of the best restaurants and bars in Beijing (Houhai, Ghost Street). Free bikes available. Smart room system requires a brief orientation. Note: Manxin has multiple Beijing properties — confirm you book the Drum Tower / Houhai one (Trip.com ID 68529781).
+- **Book:** [Trip.com](https://www.trip.com/hotels/beijing-hotel-detail-68529781/manxin-mansion-a-traditional-siheyuan-courtyard-by-houhai-and-drum-tower-in-beijing/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1) | [Booking.com](https://www.booking.com/hotel/cn/jiafuguloustreetcourtyard.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1)
+
+### Photos
+- **Exterior:** ![Manxin Mansion Drum Tower — 400-year-old Ming siheyuan exterior courtyard and traditional rooflines near Houhai](https://ak-d.tripcdn.com/images/0226a12000a5spcwjE040_R_960_660_R5_D.jpg) — [source](https://www.trip.com/hotels/beijing-hotel-detail-68529781/beijing-houhai-gulou-courtyard-manxin-mansion/photo.html)
+- **Room:** ![Manxin Mansion Drum Tower — smart-technology courtyard room with traditional carved-beam ceiling and modern bedding](https://ak-d.tripcdn.com/images/0202r120008akwevc1A26_R_339_206_R5_D.jpg) — [source](https://www.trip.com/hotels/beijing-hotel-detail-68529781/beijing-houhai-gulou-courtyard-manxin-mansion/photo.html)
+- **Unique feature:** ![Manxin Mansion Drum Tower — traditional courtyard inner garden with pavilion, ancient trees and lanterns](https://ak-d.tripcdn.com/images/020421200089jin7h9FD4_R_339_206_R5_D.jpg) — [source](https://www.trip.com/hotels/beijing-hotel-detail-68529781/beijing-houhai-gulou-courtyard-manxin-mansion/photo.html)
+
+---
+
+## Splurge Picks (over budget — for reference)
+
+These are the original 5 picks from the previous research round — all remarkable properties, all well over the £65/room hard limit. Kept here for reference if budget is flexible or a special occasion warrants it.
+
+**1. Mandarin Oriental Qianmen, Beijing** — ~£1,040/room/night. 42 restored Qing-dynasty courtyard houses scattered across the actual hutong lanes of Qianmen; World's Best New Hotel 2025 (Nikka Award, World's 50 Best Hotels). Steps from Tiananmen Square. [Booking.com](https://www.booking.com/hotel/cn/mandarin-oriental-qianmen-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1)
+
+**2. The PuXuan Hotel and Spa** — ~£310/room/night. Ole Scheeren's dramatic angular glass tower at the Guardian Art Center; every room has uninterrupted Forbidden City views; Michelin One-Star restaurant on-site; 116 rooms. [Booking.com](https://www.booking.com/hotel/cn/pu-xuan-jiu-dian-bei-jing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1)
+
+**3. Hotel Éclat Beijing** — ~£105–135/room/night (Deluxe Room). Every suite has a private heated swimming pool; Asia's largest Dalí sculpture collection in the corridors; housed inside Parkview Green's glass eco-pyramid near the embassy district. [Booking.com](https://www.booking.com/hotel/cn/eclat-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1)
+
+**4. The Opposite House** — ~£175–220/room/night. Kengo Kuma's 99-room vertical siheyuan concept in Sanlitun, done entirely in solid Douglas fir (floors, walls, ceilings, even the oval bathtubs); zero visible branding; Jing Yaa Tang Peking Duck in the basement. [Booking.com](https://www.booking.com/hotel/cn/po-the-opposite-house-hotel-sanlitun.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1)
+
+**5. Beijing Yihe Hotel (formerly Aman Summer Palace)** — ~£515/room/night. Private gate into the UNESCO Summer Palace before public opening; 51 rooms in restored Qing-dynasty courtyard buildings; ancient willows, stone bridges, and the Long Corridor frescoes through your own garden gate. (Aman management ended Dec 2025; now operates as Beijing Yihe Hotel — same property, same team.) [Trip.com](https://www.trip.com/hotels/beijing-hotel-detail-436911/summer-palace-hotel/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1)
 
 ---
 
 ## Notes
 
-### Top pick if money is no object
-**Mandarin Oriental Qianmen** — the only hotel in the world that genuinely places you *inside* a living hutong neighbourhood in restored 19th-century courtyard houses, ranked the World's Best New Hotel in 2025. Nothing else in Beijing (or arguably China) delivers this combination of imperial-era authenticity, Michelin-level dining, and understated contemporary luxury. At ~£1,040/room/night it is stratospheric, but the American Express FHR third-night-free offer (valid May–Sept 2026) meaningfully reduces a four-night stay.
+### Top pick within budget
+**Junhefu Courtyard Hotel** is the strongest combination of authenticity, character, price, and location. A genuine 300-year-old Qing official's residence in the heart of the Drum Tower hutong area, with free breakfast, at rates that can be as low as £17–35/room in May — nothing in Beijing offers more history per pound. If you want the most "Beijing" experience at the lowest price, this is it.
 
-### Best-value "cool" pick under £70/room/night
-**NUO Hotel Beijing** (~£80–100/room/night at shoulder-season rates, or lower on deals from ~£65) comes closest to the brief at budget. It is a large 5-star hotel (439 rooms, Chaoyang / near 798 Art District), so it lacks intimate boutique character — but the Ming Dynasty-inspired design is executed with real ambition, with artworks commissioned exclusively from contemporary Chinese master Zeng Fanzhi throughout the property. It is 8/10 on atmosphere, 10/10 on value for a Beijing 5-star. **Hotel Éclat Beijing's Deluxe Room** (no private pool, ~£105–135/night) is the better pick if you want genuine wow-factor under the budget ceiling — the Dalí/Warhol art collection alone justifies it. The Eclat's Deluxe Room sits slightly above £65 but well within "flexible" range and is the clearest winner on character per pound.
+### Best splurge-within-budget pick
+**Manxin Mansion Drum Tower Courtyard** offers the atmosphere of the splurge properties (400-year-old Ming siheyuan, elegant carved-beam design, exceptional reviews) at a fraction of the price. From ~£26/room and rarely over £60 in May, it is the hotel where you get the most luxury feeling for the least money. The complimentary welcome dinner is a genuine touch.
 
-### Note on Aman Summer Palace
-The Aman brand departed this property on 30 December 2025. It now operates as **Beijing Yihe Hotel** and continues to accept bookings. Room rates and service appear unchanged from reports. Confirm directly with the hotel or via Trip.com before booking, as some third-party sites may still list it under the Aman name.
+### Best atmosphere per pound (mid-range)
+**Shichahai Shadow Art Performance Courtyard** is the most memorable *experience* in the budget list — the shadow puppet shows, calligraphy workshops and dumpling-making classes are included, the hutong location is real, and the 9.6/10 rating is exceptional for a £42–57 hotel. Great choice for anyone who wants cultural programming built into the stay.
 
 ### Booking tips
-- **May in Beijing** is peak season (warm, pre-summer, Golden Week crowds have passed). Book well in advance for the Mandarin Oriental Qianmen and Beijing Yihe Hotel.
-- All prices above are indicative based on published rates as of April 2026 and should be verified at time of booking. CNY/USD/GBP rates fluctuate.
-- For the Eclat's pool suites (the truly memorable experience), expect £400–650/night; the entry Deluxe Room is the value option.
+- **May in Beijing** is peak season (warm, after Golden Week). Book all five picks well in advance — small hutong hotels sell out fast.
+- All prices are indicative based on published rates as of April 2026 and should be verified at booking. CNY/USD/GBP rates fluctuate.
+- For Xinyuan Hotel 1875: this is a new 2025 opening with limited reviews. Verify pricing directly on Trip.com — it may not yet be listed on all aggregators.
+- For Manxin Mansion: confirm you book Trip.com property ID 68529781 (the Drum Tower / Houhai location), not the Qianmen or other Manxin properties.
