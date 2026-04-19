@@ -5,6 +5,23 @@
 
 ---
 
+## Quick-Reference Summary
+
+| # | Hotel | Price/room/night | Area | Stars | Why it's cool (one line) | Budget? |
+|---|-------|-----------------|------|-------|--------------------------|---------|
+| 1 | Shichahai Shadow Art Performance Courtyard | £42–57 | Xicheng (Houhai hutong) | 4★ | Free shadow puppet theatre in the courtyard every Tue/Thu/Sat — 2,000 years of art included | ✅ |
+| 2 | Junhefu Courtyard Hotel | £17–45 | Dongcheng (Drum Tower hutong) | 3★ boutique | Sleep inside a real 300-year-old Qing military official's mansion on one of Beijing's oldest alleys | ✅ |
+| 3 | Nostalgia Hotel Beijing | £37–63 | Dongcheng (Lama Temple) | 3★ boutique | Every room hand-painted by theme — rotary phones, White Rabbit candy, floor-to-ceiling hutong murals | ✅ |
+| 4 | Xinyuan Hotel 1875 | £40–60 | Xicheng (Houhai/Drum Tower) | Boutique | A converted 1875 public bathhouse on Beijing's most atmospheric historic lane, 50 m from Houhai | ✅ |
+| 5 | Manxin Mansion Drum Tower Courtyard | £26–60 | Xicheng (Houhai/Drum Tower) | 4★ | 400-year-old Ming siheyuan with smart rooms and a complimentary welcome dinner of Beijing cuisine | ✅ |
+| S1 | Mandarin Oriental Qianmen | ~£1,040 | Qianmen (Tiananmen area) | 5★ | 42 restored Qing courtyard houses scattered across actual hutong lanes — World's Best New Hotel 2025 | ❌ |
+| S2 | The PuXuan Hotel and Spa | ~£310 | Dongcheng (Forbidden City) | 5★ | Ole Scheeren glass tower with uninterrupted Forbidden City views and a Michelin One-Star on-site | ❌ |
+| S3 | Hotel Éclat Beijing | £105–135 | Chaoyang (Embassy District) | 5★ | Asia's largest Dalí sculpture collection in the corridors; every suite has a private heated pool | ❌ |
+| S4 | The Opposite House | £175–220 | Chaoyang (Sanlitun) | 5★ | Kengo Kuma's 99-room hotel built entirely in solid Douglas fir — even the oval bathtubs | ❌ |
+| S5 | Beijing Yihe Hotel (ex-Aman Summer Palace) | ~£515 | Haidian (Summer Palace) | 5★ | Private gate into the UNESCO Summer Palace before public opening, through your own garden | ❌ |
+
+---
+
 ## Budget Cool Picks (under £65/room)
 
 ### 1. Beijing Shichahai Shadow Art Performance Courtyard — "Free shadow puppet theatre in a 4-star courtyard hotel, tucked deep in the hutong between Houhai and Prince Kung's Mansion"
