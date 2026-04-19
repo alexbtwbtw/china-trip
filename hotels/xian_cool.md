@@ -187,3 +187,88 @@
 - **Exterior:** ![Maiyue Hotel exterior with Song Dynasty-inspired architectural lines](https://ak-d.tripcdn.com/images/1mc2n12000gbgpmc341C4_R_960_660_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-123955076/maiyue-hotel/)
 - **Room:** ![Courtyard Terrace Garden Room with private outdoor terrace](https://ak-d.tripcdn.com/images/1mc3o12000gabce1hC424_R_339_206_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-123955076/maiyue-hotel/)
 - **Terrace/Garden:** ![Scenic terrace and courtyard garden area](https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60_R_400_200_R5.webp) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-123955076/maiyue-hotel/)
+
+---
+
+### 11. HUALUXE Hotels and Resorts Xi'an Tanghua — "Peacocks in the Courtyard, Pagoda Out the Window"
+
+- **Stars:** 5★ (IHG's Chinese luxury brand; 9.6/10 from 6,896 reviews on Trip.com; Black Pearl restaurant award)
+- **Area:** Yanta District (Qujiang Cultural Zone) — 420 m from Big Wild Goose Pagoda, adjacent to Grand Tang Mall, 5 km south of Bell Tower
+- **Price/room/night:** ~£85–95 (USD ~$108–120; Deluxe or Premier Room, 45–60 m²)
+- **Total for 2 rooms:** ~£170–190/night
+- **Why it's cool:** HUALUXE is IHG's prestige Chinese luxury brand — the only major hotel group to build a chain specifically around Chinese culture rather than overlaying a Western template. The Xi'an Tanghua property was designed by national architecture master Zhang Jinqiu (the same architect behind the Shaanxi History Museum) and was selected as a Chinese 20th Century Architectural Heritage in 2017. The building complex fuses Tang Dynasty palace architecture with traditional Chinese garden arts across sweeping courtyards, and the grounds are home to roaming peacocks. The hotel is 420 m from the Big Wild Goose Pagoda and a 5-minute walk to Datang Sleepless City; the dining programme includes a Black Pearl-level Chinese restaurant, making this one of the most culinarily credible stays in Xi'an.
+- **Practical:** Located on Yanyin Road, Qujiang New District. Metro Line 3 (Dayanta Station) ~600 m; taxi to Bell Tower ~20 min/¥25. Best paired with a day at the Pagoda/Tang Paradise area. The Qujiang location trades Bell Tower proximity for cultural depth and far calmer streets.
+- **Book:** [booking.com/hotel/cn/xi-an-garden](https://www.booking.com/hotel/cn/xi-an-garden.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
+
+### Photos
+- **Exterior:** ![HUALUXE Tanghua grand entrance with Tang Dynasty architectural lines](https://ak-d.tripcdn.com/images/20071h000001i5xqwA6EE_R_960_660_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-51470451/hualuxe-hotels-and-resorts-xian-tanghua/)
+- **Room:** ![Elegant guestroom with Tang-inspired Chinese furnishings](https://ak-d.tripcdn.com/images/0220v120009klyotw3E04_R_500_400_R5.webp) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-51470451/hualuxe-hotels-and-resorts-xian-tanghua/)
+- **Garden/Courtyard:** ![Lush landscaped courtyard garden with pavilions](https://ak-d.tripcdn.com/images/02233120009klyq3p4DF7_R_500_400_R5.webp) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-51470451/hualuxe-hotels-and-resorts-xian-tanghua/)
+
+---
+
+### 12. Novotel Xi'an The Bell Tower — "French-Accented Boutique, 300 m from the Bell Tower"
+
+- **Stars:** 4★ (rated 9.6/10 from 9,817 reviews on Trip.com — among the highest-reviewed hotels in all of Xi'an)
+- **Area:** Xincheng District — inside the city walls, 300 m from Bell Tower, direct access to Metro Lines 2 & 6 (Zhonglou Station, Exit H)
+- **Price/room/night:** ~£46–55 (USD ~$58–70; Deluxe King or Superior Twin, 35 m²)
+- **Total for 2 rooms:** ~£92–110/night
+- **Why it's cool:** This is the sleeper pick on the list — the property that vastly outperforms its Novotel branding. Opened in 2022 with French artistic flourishes woven through the interiors, the hotel brings smart rooms (motorised curtains, smart toilets, high-speed Wi-Fi), complimentary afternoon tea (cakes and seasonal fruit, served 2–5 pm daily), free self-service laundry machines, and wet/dry separated bathrooms — features more often found at properties twice the price. Reviewers repeatedly call it "better than any Western 5-star I've stayed in." The location is unbeatable: step out of the hotel and you are 300 m from the Bell Tower, 500 m from the Muslim Quarter, and 20 m from a metro station.
+- **Practical:** Address: No. 16 Anban Street, Xincheng District. Zhonglou Metro Station (Lines 2 & 6, Exit H) essentially at the door. Muslim Quarter 500 m; Drum Tower 300 m; South Gate 1.3 km. Note that "Novotel" undersells this property significantly — it is priced and operates like a premium boutique.
+- **Book:** [booking.com/hotel/cn/novotel-xian-the-bell-tower](https://www.booking.com/hotel/cn/novotel-xian-the-bell-tower.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
+
+### Photos
+- **Exterior:** ![Novotel Xi'an Bell Tower modern facade with city-centre setting](https://ak-d.tripcdn.com/images/020271200093lfeia7041_R_960_660_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-54597222/novotel-xi-an-the-bell-tower-hotel/)
+- **Room:** ![Smart Deluxe room with French-art accents and floor-to-ceiling window](https://ak-d.tripcdn.com/images/1mc5d12000md9odis93A0_R_339_206_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-54597222/novotel-xi-an-the-bell-tower-hotel/)
+- **Lounge/Bar:** ![Lobby bar and lounge area with warm lighting and contemporary design](https://ak-d.tripcdn.com/images/1mc2g12000c2w0k5r1DCA_R_600_360_R5.webp) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-54597222/novotel-xi-an-the-bell-tower-hotel/)
+
+---
+
+### 13. Han Tang Inn — "29 Rooms, Vinyl Players, Rooftop Garden — Tang Aesthetics at Their Most Personal"
+
+- **Stars:** 4★ boutique/design (rated 9.6/10 from 561 reviews on Trip.com; "精品民宿" — prestige design guesthouse classification)
+- **Area:** Xincheng District — Nanchang Lane, inside the city walls, walking distance to Bell Tower (~800 m) and Metro
+- **Price/room/night:** ~£80–88 (USD ~$104–112; Deluxe Tang-style Double, 30–40 m²)
+- **Total for 2 rooms:** ~£160–176/night
+- **Why it's cool:** With just 29 rooms across four floors, Han Tang Inn operates on the intimate scale of a private guesthouse but with the curation of a boutique design hotel. The architecture was redesigned in 2021 in collaboration with a nationally recognised architect to capture Tang Dynasty spirit through log construction, courtyard gardens, and a rooftop garden terrace. Every communal space is stocked with vintage stereos, vinyl record players, and projectors — a sensibility closer to a cultured friend's home than a hotel. Guests receive complimentary coffee, snacks, and drinks throughout the day, a glass of wine in the evening, and handmade Chinese-Western breakfast. Reviewers consistently praise the English-speaking staff as among the warmest in Xi'an. It is the most characterful property at this price point inside the walls.
+- **Practical:** Address: No. 7 Nanchang Lane, Xincheng District. Bell Tower ~800 m (10 min walk); Zhonglou Metro Station ~600 m. Muslim Quarter ~1.2 km. The guesthouse format means there is no 24-hour restaurant — breakfast only. Book specific room types directly; the "Courtyard Landscape Room" categories have private outdoor access.
+- **Book:** [booking.com/hotel/cn/han-tang-yi](https://www.booking.com/hotel/cn/han-tang-yi.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
+
+### Photos
+- **Exterior:** ![Han Tang Inn entrance — log construction with Tang-style lanterns and signage](https://ak-d.tripcdn.com/images/1mc4r12000cjjh3di12B7_R_960_660_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-1360974/hantang-inn/)
+- **Room:** ![Tang-aesthetic guestroom with warm wood tones and refined Chinese furnishings](https://ak-d.tripcdn.com/images/0203p120009m8gcmzB0CF_R_339_206_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-1360974/hantang-inn/)
+- **Lounge/Unique Feature:** ![Communal lounge with vintage stereo, vinyl record player and projector](https://ak-d.tripcdn.com/images/1mc5112000bc0akt3EB96_R_600_360_R5.webp) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-1360974/hantang-inn/)
+
+---
+
+### 14. Canopy by Hilton Xi'an Qujiang — "MUSE Award-Winning Tang Revival, Free Bikes, and Complimentary Evening Tastings"
+
+- **Stars:** 5★ (rated 9.6/10 from 4,673 reviews on Trip.com; MUSE Hotel Awards winner — Interior Design, Hospitality category; opened 2022)
+- **Area:** Yanta District (Qujiang Cultural Zone) — Grand Tang Mall, No. 15 Yannan 1st Road, 13-minute walk from Big Wild Goose Pagoda, 5 km south of Bell Tower
+- **Price/room/night:** ~£115–120 (USD ~$145–155; Deluxe King or Queen, 40 m²) *(splurge — over £100/room)*
+- **Total for 2 rooms:** ~£230–240/night *(splurge)*
+- **Why it's cool:** Canopy by Hilton Xi'an Qujiang is the most design-awarded hotel on this list. The MUSE Hotel Awards recognised the interior design for its bold interpretation of "the Golden Age of China" — the Tang Dynasty prosperity era that Xi'an embodied. The hotel translates this into contemporary spaces: Tang colour palettes, bold pattern work, curated artefact displays, and materials that recall silk and lacquer without pastiche. The Canopy brand's signature touches — complimentary artisanal evening tastings of locally sourced food and drinks, free bicycles for neighbourhood exploration, and a daily breakfast rooted in local produce — make it genuinely different from both the corporate 5-stars and the pure design boutiques. With 125 rooms it has the amenity depth of a full-service hotel and the visual identity of an independent property.
+- **Practical:** Address: Grand Tang Mall, 15 Yannan 1st Road, Qujiang New District. Dayanta Metro Station (Line 3) ~700 m; taxi to Bell Tower ~20–25 min/¥25. Best for guests focused on the Qujiang cultural zone (Big Wild Goose Pagoda, Tang Paradise, Datang Sleepless City). At over £100/room this is flagged as a splurge — but the MUSE recognition and Hilton infrastructure justify it for a design-focused stay.
+- **Book:** [booking.com/hotel/cn/canopy-by-hilton-xi-an-qujiang](https://www.booking.com/hotel/cn/canopy-by-hilton-xi-an-qujiang.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
+
+### Photos
+- **Exterior:** ![Canopy by Hilton Xi'an Qujiang bold Tang-era inspired exterior](https://ak-d.tripcdn.com/images/0206c1200094qnaaj47F6_R_960_660_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-76567541/canopy-by-hilton-xi-an-qujiang/)
+- **Room:** ![Contemporary room with Tang Dynasty colour palette and design details](https://ak-d.tripcdn.com/images/1mc1y12000ez4fxzo8A13_R_339_206_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-76567541/canopy-by-hilton-xi-an-qujiang/)
+- **Bar/Social Space:** ![Signature bar and social space with Tang-inspired art and bold interiors](https://ak-d.tripcdn.com/images/0205i1200095lx59mBE60_R_600_360_R5.webp) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-76567541/canopy-by-hilton-xi-an-qujiang/)
+
+---
+
+### 15. Swissôtel Xi'an Xinxing Hot Spring — "Private Hot Spring Gardens, Bahe River Views, 15 Minutes from the Terracotta Warriors"
+
+- **Stars:** 5★ (rated 9.0/10 from 616 reviews on Trip.com; opened 2019; Accor/Swissôtel brand)
+- **Area:** Lintong District — on the Bahe River, 16 km east of Xi'an city centre (~35–40 min by taxi), 15 min from Terracotta Warriors, 5 min from Huaqing Palace hot springs
+- **Price/room/night:** ~£65–85 (USD ~$82–107; Swiss Vitality Room or Private Hot Spring Garden Suite; suite rates higher)
+- **Total for 2 rooms:** ~£130–170/night
+- **Why it's cool:** This is the out-of-city detox pick — a 5-star Swiss-managed hot spring resort built on one of Xi'an's most historic stretches of river. The headline rooms are the "Swiss Vitality Private Hot Spring Garden Suites," which include direct private access to a natural hot spring garden — guests step from their room into their own geothermal pool. All rooms offer Bahe river views; the grounds are quiet, the Swissôtel service standard is high, and the property feels genuinely remote despite being 35 minutes from the city. It is the only way to combine hot spring bathing, a 5-star hotel experience, and a Terracotta Warriors morning visit without using two separate hotels. Reviewers consistently describe the hot spring soak as the trip highlight, and breakfast is praised as exceptional.
+- **Practical:** Address: Lintong District, Xi'an. A car or taxi is required — no direct metro. Taxi from Xi'an city centre ~¥60–80 one way. Best positioned as a 1-night add-on to a city-centre stay rather than a base for sightseeing in the walled city. Pair with an early Terracotta Warriors visit (booking timed entry in advance recommended). The "standard" rooms at ~£65/night hit budget; the Private Hot Spring Garden Suites (£110–120) push into splurge territory.
+- **Book:** [booking.com/hotel/cn/swissotel-hot-spring-xi-an-xinxing](https://www.booking.com/hotel/cn/swissotel-hot-spring-xi-an-xinxing.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=1&no_rooms=1)
+
+### Photos
+- **Exterior:** ![Swissôtel Xi'an Xinxing Hot Spring hotel building with river backdrop](https://ak-d.tripcdn.com/images/1mc2e12000fpgjv84A82A_R_960_660_R5_D.jpg) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-48466647/swisstel-xian-xinxing-hot-spring/)
+- **Room:** ![Swiss Vitality guest room with warm tones and river-view windows](https://ak-d.tripcdn.com/images/1mc2712000drsto5f72FB_R_500_400_R5.webp) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-48466647/swisstel-xian-xinxing-hot-spring/)
+- **Hot Spring:** ![Outdoor private hot spring garden pool at the resort](https://ak-d.tripcdn.com/images/1mc0512000dirxf052424_R_600_360_R5.webp) — [Trip.com](https://us.trip.com/hotels/xi-an-hotel-detail-48466647/swisstel-xian-xinxing-hot-spring/)
