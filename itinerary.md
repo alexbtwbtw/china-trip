@@ -26,6 +26,8 @@
 | Thu 29 May | 14  | Beijing         | night 4 |
 | Fri 30 May | 15  | Beijing         | night 5 |
 
+> ✈ **Mon 19 May** — Air China CA4576, PVG 12:05 → CKG 14:55
+
 ## Nights per City
 - Shanghai: 3
 - Chongqing: 3
@@ -54,3 +56,9 @@ Top pick per city (full shortlists in `hotels/`):
 - 🏨 **Beijing** (26–31 May) — NOA Hotel Beijing Longfu, near the Forbidden City
 
 **Still to book:** All cities booked ✅
+
+## Flights
+
+| Date | Route | Departure | Arrival | Flight | Passenger |
+|------|-------|-----------|---------|--------|-----------|
+| Mon 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | ALEXANDRE PORTUGAL |
