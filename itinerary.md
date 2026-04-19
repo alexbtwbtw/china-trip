@@ -6,6 +6,20 @@
 - **Hotel budget:** 2 rooms/city · £45/room/night target · hard limit £65/room/night · 4★ minimum, central location
 - **Booked:** Shanghai ✅ · Chongqing ✅ · Chengdu ✅ · Xi'an ✅ · Beijing ✅
 
+## Trip at a Glance
+
+| Date | Type | Detail | Info |
+|------|------|--------|------|
+| Fri 15 May | ✈ Flight | London LGW → Shanghai PVG | China Eastern MU214 · Departs 18:00 · Seat 27A |
+| Sat 16 May | 🏨 Hotel check-in | The Bund Puyan Hotel, Shanghai | Check-in |
+| Mon 19 May | ✈ Flight | Shanghai PVG → Chongqing CKG | Air China CA4576 · Departs 12:05 · Arrives 14:55 |
+| Mon 19 May | 🏨 Hotel check-in | YOLO Eling Art Gallery Hotel, Chongqing | Check-in |
+| Thu 22 May | 🏨 Hotel check-in | Lyhn International Hotel Taikoo Li, Chengdu | Check-in (check out Chongqing) |
+| Sat 24 May | 🏨 Hotel check-in | WALL Hotel Chang'an, Xi'an | Check-in (check out Chengdu) |
+| Mon 26 May | 🏨 Hotel check-in | NOA Hotel Beijing Longfu, Beijing | Check-in (check out Xi'an) |
+| Sun 31 May | 🏨 Hotel check-out | NOA Hotel Beijing Longfu, Beijing | Check-out |
+| Sun 31 May | ✈ Flight | Beijing PKX → London LHR | China Southern CZ673 · Departs 14:15 · A350 Economy |
+
 ## Schedule
 
 | Date       | Day | City            | Nights |
