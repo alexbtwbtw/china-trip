@@ -26,6 +26,8 @@
 | Thu 29 May | 14  | Beijing         | night 4 |
 | Fri 30 May | 15  | Beijing         | night 5 |
 
+> ✈ **Fri 15 May** — China Eastern MU214, LGW 18:00 → PVG 12:10+1 (arrives Sat 16 May) · Seat 27A
+
 > ✈ **Mon 19 May** — Air China CA4576, PVG 12:05 → CKG 14:55
 
 ## Nights per City
@@ -59,6 +61,7 @@ Top pick per city (full shortlists in `hotels/`):
 
 ## Flights
 
-| Date | Route | Departure | Arrival | Flight | Passenger |
-|------|-------|-----------|---------|--------|-----------|
-| Mon 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | ALEXANDRE PORTUGAL |
+| Date | Route | Departure | Arrival | Flight | Passenger | Seat |
+|------|-------|-----------|---------|--------|-----------|------|
+| Fri 15 May | London LGW N → Shanghai PVG T1 | 18:00 | 12:10 +1 (Sat 16 May) | China Eastern MU214 | ALEXANDRE PORTUGAL | 27A |
+| Mon 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | ALEXANDRE PORTUGAL | — |
