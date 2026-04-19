@@ -30,6 +30,8 @@
 
 > ✈ **Mon 19 May** — Air China CA4576, PVG 12:05 → CKG 14:55
 
+> ✈ **Sun 31 May** — China Southern CZ673, PKX 14:15 → LHR · A350 Economy
+
 ## Nights per City
 - Shanghai: 3
 - Chongqing: 3
@@ -65,3 +67,4 @@ Top pick per city (full shortlists in `hotels/`):
 |------|-------|-----------|---------|--------|-----------|------|
 | Fri 15 May | London LGW N → Shanghai PVG T1 | 18:00 | 12:10 +1 (Sat 16 May) | China Eastern MU214 | ALEXANDRE PORTUGAL | 27A |
 | Mon 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | ALEXANDRE PORTUGAL | — |
+| Sun 31 May | Beijing PKX → London LHR | 14:15 | — | China Southern CZ673 | ALEXANDRE PORTUGAL | — |
