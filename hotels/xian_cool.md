@@ -5,6 +5,32 @@
 
 ---
 
+## Quick-Reference Summary
+
+| # | Hotel | Price/room/night | Area | Stars | Why it's cool (one line) | Budget? |
+|---|-------|-----------------|------|-------|--------------------------|---------|
+| 1 | Eastern House Boutique | £35–52 | Beilin (inside walls) | 4★ | Best-value "actually memorable" stay: dark-wood Oriental aesthetic, afternoon tea, 400 m from Muslim Quarter | ✅ |
+| 2 | Grand Mercure Renmin Sq | £30–55 | Xincheng (inside walls) | 5★ | 1957 Sino-Soviet civic landmark with sweeping stairwells and acres of ancient-tree garden | ✅ |
+| 3 | Bell Tower Hotel | £29–42 | Beilin (inside walls) | 4★ | Founded 1983 — Panoramic Bell Tower view rooms at Xi'an's most iconic address, 50 m from metro | ✅ |
+| 4 | Maiyue Hotel | £33–52 | Beilin (inside walls) | 4★ | Highest-rated pick (9.7/10): Song Dynasty terraced courtyards with private outdoor terrace rooms | ✅ |
+| 5 | Novotel Xi'an Bell Tower | £46–55 | Xincheng (inside walls) | 4★ | Vastly over-delivers on its branding: French art interiors, smart rooms, metro station 20 m away | ✅ |
+| 6 | OrangeHao Hotel | £55–70 | Beilin (outside S. Gate) | 4★ | 180° panoramic night view of the illuminated Yongning Gate at around half the price of 5-star neighbours | ⚠️ |
+| 7 | Mehood Elegant | £55–90 | Beilin (inside walls) | 5★ | Tang Dynasty interiors + rooftop bar staring straight at the South Gate; Hanfu rental on-site | ⚠️ |
+| 8 | Tang Dynasty Art Garden | £55–78 | Yanta (Giant Pagoda) | 4★ | Three genuine Ming/Qing courtyards with moon gates, goldfish ponds, and rosewood furniture | ⚠️ |
+| 9 | Hyatt Centric Gaoxin | £58–82 | Yanta (Hi-Tech Zone) | 5★ | Only Xi'an hotel by a Pritzker Prize architect: Kengo Kuma's shimmering woven-silk aluminium façade | ⚠️ |
+| 10 | WALL Hotel Chang'an | £28–42 | Xincheng (N. wall) | 4★ | 11-room 2024 micro-boutique pressed against the ramparts — every room faces the ancient city wall | ✅ |
+| 11 | Honglu Garden Hotel | £38–52 | Beilin (inside walls) | 4★ | City Wall Observation Rooms + private courtyard garden suites, 150 m from wall access | ✅ |
+| 12 | YiXi Designer Hotel | £42–53 | Beilin (inside walls) | 3★ boutique | Loft rooms with a full bathtub suspended on ropes — every room uniquely handcrafted by the owner | ✅ |
+| 13 | Yunqi Selected Hotel | £40–51 | Beilin (inside walls) | 2★ boutique | Steps from Xi'an's historic calligraphy-and-scroll street; Hanfu experiences; 9.2/10 from 3,000+ reviews | ✅ |
+| S1 | Sofitel Legend People's Grand | £155–190 | Xincheng (inside walls) | 5★ | The only Sofitel Legend in mainland China; 1953 state guesthouse on 40,000 m² of gardens | ❌ |
+| S2 | Younch Hotel (SLH) | £120–150 | Inside walls | Boutique | 16-room SLH; rammed-earth walls, sunken meditation pool, hot tubs 10 m from the Ming rampart | ❌ |
+| S3 | Canopy by Hilton Qujiang | £115–120 | Yanta (Giant Pagoda) | 4★ | MUSE Award-winning Tang Golden Age interiors; artisanal evening tastings; next to Datang Sleepless City | ❌ |
+| S4 | Han Tang Inn | £80–88 | Inside walls | Boutique | 29 rooms; vinyl record players, rooftop garden, Tang log-construction; wine and handmade breakfast included | ❌ |
+| S5 | HUALUXE Tanghua | £85–95 | Yanta (Giant Pagoda) | 5★ | Designed by Zhang Jinqiu (Shaanxi History Museum architect); roaming peacocks; Black Pearl restaurant | ❌ |
+| S6 | Swissôtel Hot Spring | £65–85 | E. suburbs (near Warriors) | 5★ | Private hot-spring garden suites with Bahe River views; 15 min from Terracotta Warriors | ⚠️ |
+
+---
+
 ## Budget Cool Picks (under £65/room)
 
 ---
