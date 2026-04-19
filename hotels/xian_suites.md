@@ -10,8 +10,8 @@
 - **Beds/capacity:** Sleeps 4 (2 separate bedrooms, typically 1 king + 1 twin or 2 queens), 2 bathrooms, fully fitted kitchenette, washer/dryer.
 - **Why:** The only genuine "two separate bedrooms under one booking" product that is actually inside the old city and walkable to everything. Serviced-apartment format means real kitchen and laundry — useful on a multi-city China trip. Guests consistently praise the location on Trip.com.
 - **Book:**
-  - Booking.com: https://www.booking.com/searchresults.html?ss=Citadines+Central+Xi%27an&checkin=2026-05-25&checkout=2026-05-27&group_adults=2&no_rooms=1
-  - Trip.com: https://us.trip.com/hotels/list?city=80&checkIn=2026-05-25&checkOut=2026-05-27&searchKeyword=Citadines%20Central%20Xi%27an
+  - Booking.com: https://www.booking.com/searchresults.html?ss=Citadines+Central+Xi%27an&checkin=2026-05-25&checkout=2026-05-26&group_adults=2&no_rooms=1
+  - Trip.com: https://us.trip.com/hotels/list?city=80&checkIn=2026-05-25&checkOut=2026-05-26&searchKeyword=Citadines%20Central%20Xi%27an
   - Official (Ascott): https://www.discoverasr.com/en/citadines/china/citadines-central-xian
 
 ### 2. Eastern House Xi'an (Near Bell & Drum Tower City Wall) — Two-Bedroom Deluxe Suite
@@ -22,8 +22,8 @@
 - **Beds/capacity:** Sleeps 4 adults comfortably; good for a family or two couples
 - **Why:** 9.4/10 on Trip.com across 6,370+ reviews — the best-reviewed option of the three. Rich breakfast buffet, free afternoon tea, boutique feel. Most atmospheric of the options and the closest to the Muslim Quarter food scene.
 - **Book:**
-  - Booking.com: https://www.booking.com/hotel/cn/xi-an-dong-she-jiu-dian.html?checkin=2026-05-25&checkout=2026-05-27&group_adults=2&no_rooms=1
-  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-4425696/eastern-house/?checkIn=2026-05-25&checkOut=2026-05-27
+  - Booking.com: https://www.booking.com/hotel/cn/xi-an-dong-she-jiu-dian.html?checkin=2026-05-25&checkout=2026-05-26&group_adults=2&no_rooms=1
+  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-4425696/eastern-house/?checkIn=2026-05-25&checkOut=2026-05-26
 
 ### 3. Novotel Xi'an The Bell Tower — Two Interconnecting Rooms
 - **Stars:** 4★ (Accor Novotel, opened 2022 — newest of the three)
@@ -33,8 +33,8 @@
 - **Beds/capacity:** 2 bedrooms × typically 1 king or 2 twins each, 2 full bathrooms, sleeps 4
 - **Why:** If budget can stretch, this is the best-located and most polished product. Brand-new build, kids stay free (two under-16s), kids' entertainment area, Accor loyalty points. Request the interconnecting pair explicitly at booking (note: "connecting rooms on request, not guaranteed until confirmed by the hotel").
 - **Book:**
-  - Booking.com: https://www.booking.com/hotel/cn/novotel-xian-the-bell-tower.html?checkin=2026-05-25&checkout=2026-05-27&group_adults=4&no_rooms=2
-  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-54597222/novotel-xi-an-the-bell-tower-hotel/?checkIn=2026-05-25&checkOut=2026-05-27
+  - Booking.com: https://www.booking.com/hotel/cn/novotel-xian-the-bell-tower.html?checkin=2026-05-25&checkout=2026-05-26&group_adults=4&no_rooms=2
+  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-54597222/novotel-xi-an-the-bell-tower-hotel/?checkIn=2026-05-25&checkOut=2026-05-26
   - Accor (ALL): https://all.accor.com/hotel/B6K7/index.en.shtml
 
 ## Notes

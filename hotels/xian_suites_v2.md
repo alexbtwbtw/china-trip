@@ -15,8 +15,8 @@
 - **Size:** 75 m²
 - **Why:** The only hotel on this list with a confirmed, off-the-shelf 2-BR 2-Bath suite listed on Trip.com and Booking.com at a price that comfortably hits the target rate. English-speaking staff, curated sightseeing package (show tickets included), cat café on site. Reviews score it 9.0+/10. The Yongning Gate location means you arrive by metro and are immediately on the wall promenade.
 - **Book:**
-  - Booking.com: https://www.booking.com/hotel/cn/he-su-jiu-dian-xi-an-gu-lou-nan-men-dian.en-gb.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=2&no_rooms=1
-  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-28535108/hesu-hidden-art-hotel-suites-exclusive-2-3-bedroom-family-suitescurated-itinerariescat-coffee/?checkIn=2026-05-24&checkOut=2026-05-27&adult=2&rooms=1
+  - Booking.com: https://www.booking.com/hotel/cn/he-su-jiu-dian-xi-an-gu-lou-nan-men-dian.en-gb.html?checkin=2026-05-24&checkout=2026-05-26&group_adults=2&no_rooms=1
+  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-28535108/hesu-hidden-art-hotel-suites-exclusive-2-3-bedroom-family-suitescurated-itinerariescat-coffee/?checkIn=2026-05-24&checkOut=2026-05-26&adult=2&rooms=1
 
 ---
 
@@ -30,8 +30,8 @@
 - **Size:** 248 m²
 - **Why:** The most luxurious confirmed true 2-BR option on the list. The Hilton Xi'an is a well-reviewed 5★ property with a large heated indoor pool and roof garden. The Presidential Suite is a genuine standout. However, the price will almost certainly exceed the £130/night hard limit — treat as a splurge option or enquire directly for a promotional rate.
 - **Book:**
-  - Booking.com: https://www.booking.com/hotel/cn/hilton-xian.en-gb.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=2&no_rooms=1
-  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-371197/hilton-xi-an/?checkIn=2026-05-24&checkOut=2026-05-27&adult=2&rooms=1
+  - Booking.com: https://www.booking.com/hotel/cn/hilton-xian.en-gb.html?checkin=2026-05-24&checkout=2026-05-26&group_adults=2&no_rooms=1
+  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-371197/hilton-xi-an/?checkIn=2026-05-24&checkOut=2026-05-26&adult=2&rooms=1
   - Hilton direct: https://www.hilton.com/en/hotels/xiyhihi-hilton-xian/rooms/
 
 ---
@@ -46,9 +46,9 @@
 - **Size:** ~40–43 m² per room (~80–86 m² combined)
 - **Why:** Closest hotel to the Bell Tower that offers a guaranteed 2-bedroom configuration within budget. As a brand-new 4★ (opened 2023–24), rooms are modern with soundproofing, bathrobe/slippers, and mini-bar. The Hilton Confirmed Connecting Rooms feature removes the usual uncertainty of connecting-room bookings. Location is unbeatable for city-wall sightseeing.
 - **Book (must use Hilton direct — connecting not available on Booking.com):**
-  - Hilton.com: https://www.hilton.com/en/hotels/xiybtgi-hilton-garden-inn-xian-bell-tower/rooms/?checkin=2026-05-24&checkout=2026-05-27&room1=A2
+  - Hilton.com: https://www.hilton.com/en/hotels/xiybtgi-hilton-garden-inn-xian-bell-tower/rooms/?checkin=2026-05-24&checkout=2026-05-26&room1=A2
   - Hilton Connecting Rooms page: https://www.hilton.com/en/connecting-rooms/
-  - Booking.com (single rooms only — do not use for connecting): https://www.booking.com/hotel/cn/hilton-garden-inn-xi-an-bell-tower.en-gb.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=2&no_rooms=1
+  - Booking.com (single rooms only — do not use for connecting): https://www.booking.com/hotel/cn/hilton-garden-inn-xi-an-bell-tower.en-gb.html?checkin=2026-05-24&checkout=2026-05-26&group_adults=2&no_rooms=1
 
 ---
 
@@ -62,8 +62,8 @@
 - **Size:** Prestige Suite ~55 m²; combined with twin ~95 m²
 - **Why:** The most prestigious address on this list — 5★ Sofitel service, Accor ALL loyalty, spa, indoor pool, rooftop views. Renmin Square location is convenient and historically rich. However, it does not offer a native 2-BR suite; a second room is needed to meet the brief, which pushes total cost above £130/night. Best considered if you value the Sofitel brand and can stretch the budget.
 - **Book:**
-  - Booking.com: https://www.booking.com/hotel/cn/sofitel-on-renmin-square.en-gb.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=2&no_rooms=1
-  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-347332/sofitel-xi-an-on-renmin-square/?checkIn=2026-05-24&checkOut=2026-05-27&adult=2&rooms=1
+  - Booking.com: https://www.booking.com/hotel/cn/sofitel-on-renmin-square.en-gb.html?checkin=2026-05-24&checkout=2026-05-26&group_adults=2&no_rooms=1
+  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-347332/sofitel-xi-an-on-renmin-square/?checkIn=2026-05-24&checkOut=2026-05-26&adult=2&rooms=1
   - Accor direct: https://sofitel.accor.com/en/hotels/5949.html
 
 ---
@@ -78,8 +78,8 @@
 - **Size:** 100 m²
 - **Why:** Good value and generous floor space, but only qualifies for this list as a fallback — the beds are in one open-plan room, not two lockable bedrooms. Good if privacy between sleeping parties is not required (e.g., one couple + child). The 4★ Grand Mercure offers a pool, heritage Oriental decor, and a reasonable 15-min walk to the Bell Tower.
 - **Book:**
-  - Booking.com: https://www.booking.com/hotel/cn/grand-on-renmin-square.en-gb.html?checkin=2026-05-24&checkout=2026-05-27&group_adults=2&no_rooms=1
-  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-426017/grand-mercure-xian-renmin-square/?checkIn=2026-05-24&checkOut=2026-05-27&adult=2&rooms=1
+  - Booking.com: https://www.booking.com/hotel/cn/grand-on-renmin-square.en-gb.html?checkin=2026-05-24&checkout=2026-05-26&group_adults=2&no_rooms=1
+  - Trip.com: https://us.trip.com/hotels/xi-an-hotel-detail-426017/grand-mercure-xian-renmin-square/?checkIn=2026-05-24&checkOut=2026-05-26&adult=2&rooms=1
   - Accor direct: https://all.accor.com/hotel/5974/index.en.shtml
 
 ---

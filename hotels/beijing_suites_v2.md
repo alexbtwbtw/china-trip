@@ -18,7 +18,7 @@
 - **Beds/capacity:** 2 separate bedrooms (Queen/double configuration; 2 single beds listed in one source — confirm at booking), 3 bathrooms, sleeps 4. Two-Bedroom Family Room: 2 bedrooms, 2 bathrooms.
 - **Size:** 90 m² (Family Suite) / 60 m² (Family Room)
 - **Why:** The only 4★ brand hotel directly on Wangfujing that publishes a confirmed two-separate-bedroom room type in its standard inventory. Dengshikou metro access, spa, gym, restaurant on-site. If budget is flexible beyond £130 for a Wangfujing address, this is the natural choice. Call the hotel to confirm the 2-BR suite is available for 27–31 May 2026 before booking.
-- **Book:** [Booking.com](https://www.booking.com/hotel/cn/park-plaza-beijing-wangfujing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Radisson Hotels direct](https://www.radissonhotels.com/en-us/hotels/park-plaza-beijing-wangfujing) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-425031/park-plaza-beijing-wangfujing/?checkIn=2026-05-27&checkOut=2026-05-31&adult=4)
+- **Book:** [Booking.com](https://www.booking.com/hotel/cn/park-plaza-beijing-wangfujing.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Radisson Hotels direct](https://www.radissonhotels.com/en-us/hotels/park-plaza-beijing-wangfujing) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-425031/park-plaza-beijing-wangfujing/?checkIn=2026-05-26&checkOut=2026-05-31&adult=4)
 
 ---
 
@@ -30,7 +30,7 @@
 - **Beds/capacity:** Bedroom 1: 1 Queen bed; Bedroom 2: 1 Queen bed. Sleeps 4.
 - **Size:** 108–116 m²
 - **Why:** Premier choice if budget stretches past £130. Genuinely within Wangfujing — not "near Wangfujing", it's directly adjacent with a 4-min walk to the metro. Marriott-managed means reliable international standards, English-speaking reception, and Bonvoy points. Full kitchen, washer/dryer, heated indoor pool, gym, restaurant. TripAdvisor ranked #1 condo/apartment hotel in all of Beijing.
-- **Book:** [Booking.com](https://www.booking.com/hotel/cn/beijing-marriott-executive-apartment.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Marriott direct](https://www.marriott.com/en-us/hotels/bjsim-the-imperial-mansion-beijing-marriott-executive-apartments/overview/) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-429118/the-imperial-mansion-beijing-marriott-executive-apartments/?checkIn=2026-05-27&checkOut=2026-05-31&adult=4)
+- **Book:** [Booking.com](https://www.booking.com/hotel/cn/beijing-marriott-executive-apartment.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Marriott direct](https://www.marriott.com/en-us/hotels/bjsim-the-imperial-mansion-beijing-marriott-executive-apartments/overview/) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-429118/the-imperial-mansion-beijing-marriott-executive-apartments/?checkIn=2026-05-26&checkOut=2026-05-31&adult=4)
 
 ---
 
@@ -42,7 +42,7 @@
 - **Beds/capacity:** Master bedroom (King), second bedroom (Queen based on reviews). Sleeps 4 comfortably.
 - **Size:** 140–160 m² (Two-Bedroom Suite); 160 m² (Deluxe Two-Bedroom)
 - **Why:** The most prestigious and centrally-located pure serviced-apartment option in all of Wangfujing, ranked #1 apartment hotel in Beijing by TripAdvisor. Boutique in feel, European-styled interiors, indoor pool, spa, gym. Best option for a luxury self-catering stay with the ultimate Wangfujing address. Over budget but worth flagging for those who can stretch.
-- **Book:** [Booking.com search](https://www.booking.com/searchresults.html?ss=Lee+Garden+Service+Apartment+Beijing&checkin=2026-05-27&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Official direct booking](https://lee-garden-apartments-beijing.h-rez.com/) · [Agoda](https://www.agoda.com/hotel-lee-garden/hotel/beijing-cn.html) · *(Note: search "Lee Garden Wangfujing" on any OTA — it may also appear under Chinese name 丽苑太和服务公寓)*
+- **Book:** [Booking.com search](https://www.booking.com/searchresults.html?ss=Lee+Garden+Service+Apartment+Beijing&checkin=2026-05-26&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Official direct booking](https://lee-garden-apartments-beijing.h-rez.com/) · [Agoda](https://www.agoda.com/hotel-lee-garden/hotel/beijing-cn.html) · *(Note: search "Lee Garden Wangfujing" on any OTA — it may also appear under Chinese name 丽苑太和服务公寓)*
 
 ---
 
@@ -54,7 +54,7 @@
 - **Beds/capacity:** 2 separate bedrooms (King + configuration varies), sleeps 4.
 - **Size:** 147 m²
 - **Why:** Best-branded serviced apartment option near central Beijing with confirmed short-stay availability. Raffles City development means shops, restaurants, and transport all on the doorstep. Airport Express at Dongzhimen is a major bonus for arrival/departure. Ascott/discoverasr.com direct booking occasionally offers 4-night packages — always compare with Booking.com.
-- **Book:** [Booking.com](https://www.booking.com/hotel/cn/ascott-raffles-city-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Ascott direct (discoverasr.com)](https://www.discoverasr.com/en/ascott-the-residence/china/ascott-raffles-city-beijing) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-429047/ascott-raffles-city-beijing/?checkIn=2026-05-27&checkOut=2026-05-31&adult=4)
+- **Book:** [Booking.com](https://www.booking.com/hotel/cn/ascott-raffles-city-beijing.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Ascott direct (discoverasr.com)](https://www.discoverasr.com/en/ascott-the-residence/china/ascott-raffles-city-beijing) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-429047/ascott-raffles-city-beijing/?checkIn=2026-05-26&checkOut=2026-05-31&adult=4)
 
 ---
 
@@ -66,7 +66,7 @@
 - **Beds/capacity:** 2 separate bedrooms (2 Single beds listed in inventory), 2 bathrooms, sleeps 4.
 - **Size:** 60 m²
 - **Why:** The most budget-accessible confirmed 2-BR option at a named 4★ Wangfujing hotel. The 60 m² is compact for a 2-BR but the two bedrooms are genuinely separate (listed separately from family rooms with double beds). If the 90 m² suite is out of budget or sold out, check this room type first.
-- **Book:** [Booking.com](https://www.booking.com/hotel/cn/park-plaza-beijing-wangfujing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Radisson Hotels direct](https://www.radissonhotels.com/en-us/hotels/park-plaza-beijing-wangfujing) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-425031/park-plaza-beijing-wangfujing/?checkIn=2026-05-27&checkOut=2026-05-31&adult=4)
+- **Book:** [Booking.com](https://www.booking.com/hotel/cn/park-plaza-beijing-wangfujing.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=4&no_rooms=1) · [Radisson Hotels direct](https://www.radissonhotels.com/en-us/hotels/park-plaza-beijing-wangfujing) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-425031/park-plaza-beijing-wangfujing/?checkIn=2026-05-26&checkOut=2026-05-31&adult=4)
 
 ---
 

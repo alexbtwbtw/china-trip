@@ -10,8 +10,8 @@
 - **Beds/capacity:** 2 separate bedrooms, 2 bathrooms typical, sleeps 4 comfortably.
 - **Why:** Only option on the shortlist that is genuinely *in* the Wangfujing/Dongcheng target area AND offers a true 2-bedroom unit at a realistic price. Hutong location with self-catering kitchen, laundry in-unit, English-speaking staff, bike rental — ideal for a 4-night family-style stay.
 - **Book:**
-  - Booking.com: https://www.booking.com/hotel/cn/basebai-she-fu-wu-shi-gong-yu-bei-jing-long-fu-si-dian.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=2&no_rooms=1
-  - Trip.com: https://us.trip.com/hotels/beijing-hotel-detail-106558763/base-longfusi-serviced-apartment/?checkIn=2026-05-27&checkOut=2026-05-31
+  - Booking.com: https://www.booking.com/hotel/cn/basebai-she-fu-wu-shi-gong-yu-bei-jing-long-fu-si-dian.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=2&no_rooms=1
+  - Trip.com: https://us.trip.com/hotels/beijing-hotel-detail-106558763/base-longfusi-serviced-apartment/?checkIn=2026-05-26&checkOut=2026-05-31
 
 ### 2. Citadines Apart'hotel Ritan Beijing — Two-Bedroom Executive Apartment
 - **Stars:** 4★ (Ascott-group aparthotel, ex-Mercure Chaoyangmen)
@@ -21,7 +21,7 @@
 - **Beds/capacity:** 2 bedrooms (typically 1 king + 1 twin/double), sleeps 4.
 - **Why:** Reliable international aparthotel brand with English-speaking reception, daily housekeeping, kitchenette, pool/gym. Metro Line 2 makes Forbidden City / Wangfujing a 10-min ride. Good fall-back if base-Wangfujing 2-BRs are sold out for these dates.
 - **Book:**
-  - Booking.com: https://www.booking.com/hotel/cn/citadines-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=2&no_rooms=1
+  - Booking.com: https://www.booking.com/hotel/cn/citadines-beijing.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=2&no_rooms=1
   - Agoda: https://www.agoda.com/citadines-ritan-beijing/hotel/beijing-cn.html
   - Ascott direct (for 4+ night rate): https://www.discoverasr.com/en/citadines/china/citadines-ritan-beijing
 
@@ -34,8 +34,8 @@
 - **Why:** If you want to stay IN Wangfujing and have 2 true separate bedrooms, the connecting-room route at Novotel Peace is the most budget-realistic way to do it — pure 2-BR suites at Wangfujing 4–5★ hotels (Hilton, Peninsula, Park Plaza) all run £300+/night. Must be booked via the Accor "Family" offer or by calling the hotel to guarantee the connecting door.
 - **Book:**
   - Accor direct (Family offer — required to get the 50%-off 2nd room): https://all.accor.com/hotel/3115/index.en.shtml
-  - Booking.com (book 2 rooms, then email hotel to request connecting): https://www.booking.com/hotel/cn/novotelpeace.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=2&no_rooms=2
-  - Trip.com: https://www.trip.com/hotels/beijing-hotel-detail-385117/novotel-beijing-peace/?checkIn=2026-05-27&checkOut=2026-05-31
+  - Booking.com (book 2 rooms, then email hotel to request connecting): https://www.booking.com/hotel/cn/novotelpeace.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=2&no_rooms=2
+  - Trip.com: https://www.trip.com/hotels/beijing-hotel-detail-385117/novotel-beijing-peace/?checkIn=2026-05-26&checkOut=2026-05-31
 
 ## Notes
 
@@ -49,4 +49,4 @@
 - **Checkout is Sunday 31 May, not Saturday.** Double-check that the booking engine shows 4 nights (27, 28, 29, 30 May) before confirming.
 - **Foreign-passport check-in.** All three picks routinely accept foreign guests, but Chinese hotels are required by law to register foreign passports with the local police. Arrive with passport + printed visa/entry stamp; some smaller aparthotels (base-Wangfujing is the borderline case here) occasionally turn away foreigners if their police registration licence lapses — worth sending the property a WeChat/email 1–2 weeks out confirming they accept foreign passports for these dates.
 - **4-night discounts.** All three Ascott-family brands (Ascott, Citadines, Somerset) price better when booked direct on discoverasr.com for stays of 4+ nights — always compare direct vs. Booking/Trip.com.
-- **Prices above are estimates** based on current OTA ranges for comparable mid-week spring dates; confirm live on Booking.com/Trip.com/Agoda with the 2026-05-27 → 2026-05-31 dates before committing.
+- **Prices above are estimates** based on current OTA ranges for comparable mid-week spring dates; confirm live on Booking.com/Trip.com/Agoda with the 2026-05-26 → 2026-05-31 dates before committing.

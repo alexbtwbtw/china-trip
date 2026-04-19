@@ -18,7 +18,7 @@
 - **Review score:** Trip.com 9.2/10 Very Good (1,191 reviews) · TripAdvisor 3.9/5, #133 of 3,571 Beijing hotels (524 reviews)
 - **Adjacent rooms:** On request — 122-room property; call ahead to confirm connecting or same-floor pairing
 - **Why:** Unbeatable position — literally next to the Forbidden City moat and a short walk to Wangfujing. One of the best-value 4★ addresses in this micro-neighbourhood, with consistently high Trip.com scores for location and service. Historic building with authentic character.
-- **Book:** [Booking.com](https://www.booking.com/hotel/cn/jade-garden-hotel-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-427321/jade-garden-hotel/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1)
+- **Book:** [Booking.com](https://www.booking.com/hotel/cn/jade-garden-hotel-beijing.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=1&no_rooms=1) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-427321/jade-garden-hotel/?checkin=2026-05-26&checkout=2026-05-31&adult=1&rooms=1)
 
 ---
 
@@ -30,7 +30,7 @@
 - **Review score:** Trip.com 8.7/10 (1,254 reviews) · TripAdvisor 3.9/5, #105 of 3,571 (1,836 reviews) · Booking.com previously reported 8.3
 - **Adjacent rooms:** On request — 338-room property, good chance of same-floor rooms; ask at booking
 - **Why:** Previously found at £46 and remains within budget. Sits dead-centre on Wangfujing itself, surrounded by dining, shopping and metro access. Large building makes same-floor room pairing realistic. Strong location scores across all platforms.
-- **Book:** [Booking.com](https://www.booking.com/hotel/cn/crowne-plaza-beijing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-385119/crowne-plaza-beijing-wangfujing/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1)
+- **Book:** [Booking.com](https://www.booking.com/hotel/cn/crowne-plaza-beijing.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=1&no_rooms=1) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-385119/crowne-plaza-beijing-wangfujing/?checkin=2026-05-26&checkout=2026-05-31&adult=1&rooms=1)
 
 ---
 
@@ -42,7 +42,7 @@
 - **Review score:** KAYAK 8.6/10 Very Good (3,032 reviews) · TripAdvisor 3.9/5, #99 of 3,571 (745 reviews) · Booking.com 8.9 Location score
 - **Adjacent rooms:** On request — 302 rooms, large enough for adjacent allocation; request at time of booking
 - **Why:** The best value option on this list, consistently coming in well below £50/night with strong guest scores. Large property with good facilities including two restaurants. Slightly less boutique than alternatives but solid mid-range 4★ with an excellent location score.
-- **Book:** [Booking.com](https://www.booking.com/hotel/cn/bei-jing-tian-lun-song-he-da-fan-dian.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) · [Trip.com](https://us.trip.com/hotels/beijing-wangfujing/hotels-c1m4189410/)
+- **Book:** [Booking.com](https://www.booking.com/hotel/cn/bei-jing-tian-lun-song-he-da-fan-dian.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=1&no_rooms=1) · [Trip.com](https://us.trip.com/hotels/beijing-wangfujing/hotels-c1m4189410/)
 
 ---
 
@@ -54,7 +54,7 @@
 - **Review score:** KAYAK 9.0/10 Wonderful (2,395 reviews) · HotelsCombined Excellent 9.0 · TripAdvisor ~4.0/5
 - **Adjacent rooms:** On request — 339-room property, ask for connecting rooms at booking or on arrival
 - **Why:** The only hotel on this list directly on a Line 1 station that's exactly 2 stops from Tiananmen East, with no interchange required. Strong review scores and competitive pricing. Previously found at £60 — current data shows it may be slightly cheaper (£57–£61) for May 2026 off-peak weekday arrivals.
-- **Book:** [Booking.com](https://www.booking.com/hotel/cn/inner-mongolia-grand-wangfujing.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) · [KAYAK](https://www.kayak.com/Beijing-Hotels-Inner-Mongolia-Grand-Hotel-Wangfujing.413193.ksp)
+- **Book:** [Booking.com](https://www.booking.com/hotel/cn/inner-mongolia-grand-wangfujing.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=1&no_rooms=1) · [KAYAK](https://www.kayak.com/Beijing-Hotels-Inner-Mongolia-Grand-Hotel-Wangfujing.413193.ksp)
 
 ---
 
@@ -66,7 +66,7 @@
 - **Review score:** KAYAK 7.8/10 Good (2,616 reviews) · TripAdvisor 4.1/5, #111 of 3,571 (4,167 reviews) · Booking.com ~7.9
 - **Adjacent rooms:** On request — 362-room Accor property; connecting-room requests handled by front desk
 - **Why:** A well-known Accor 4★ brand in the most central possible Wangfujing location. Previously exceeded the hard limit at £66 but current live rates are showing £56–£62 for May — this re-check suggests it now fits inside the £65 hard cap, though the margin is slim. Verified international chain with reliable standards; however, some reviews note dated décor. Book the non-refundable rate early for the best price.
-- **Book:** [Booking.com](https://www.booking.com/hotel/cn/novotelpeace.html?checkin=2026-05-27&checkout=2026-05-31&group_adults=1&no_rooms=1) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-385117/novotel-beijing-peace/?checkin=2026-05-27&checkout=2026-05-31&adult=1&rooms=1)
+- **Book:** [Booking.com](https://www.booking.com/hotel/cn/novotelpeace.html?checkin=2026-05-26&checkout=2026-05-31&group_adults=1&no_rooms=1) · [Trip.com](https://us.trip.com/hotels/beijing-hotel-detail-385117/novotel-beijing-peace/?checkin=2026-05-26&checkout=2026-05-31&adult=1&rooms=1)
 
 ---
 

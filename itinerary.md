@@ -1,7 +1,7 @@
 # China Trip Itinerary — May 2026
 
 ## Overview
-- **Duration:** 12 nights (19 May – 30 May 2026)
+- **Duration:** 12 nights (19 May – 31 May 2026)
 - **Cities:** Chongqing → Chengdu → Xi'an → Beijing
 - **Hotel budget:** 2 rooms/city · £45/room/night target · hard limit £65/room/night · 4★ minimum, central location
 - **Booked:** Chongqing ✅ · Chengdu ✅ · Xi'an ✅
@@ -17,17 +17,17 @@
 | Sat 23 May | 5   | Chengdu         | night 2 |
 | Sun 24 May | 6   | Xi'an           | night 1 |
 | Mon 25 May | 7   | Xi'an           | night 2 |
-| Tue 26 May | 8   | Xi'an           | night 3 |
-| Wed 27 May | 9   | Beijing         | night 1 |
-| Thu 28 May | 10  | Beijing         | night 2 |
-| Fri 29 May | 11  | Beijing         | night 3 |
-| Sat 30 May | 12  | Beijing         | night 4 |
+| Tue 26 May | 8   | Beijing         | night 1 |
+| Wed 27 May | 9   | Beijing         | night 2 |
+| Thu 28 May | 10  | Beijing         | night 3 |
+| Fri 29 May | 11  | Beijing         | night 4 |
+| Sat 30 May | 12  | Beijing         | night 5 |
 
 ## Nights per City
 - Chongqing: 3
 - Chengdu: 2
-- Xi'an: 3
-- Beijing: 4
+- Xi'an: 2
+- Beijing: 5
 
 ## Hotels
 
@@ -38,12 +38,12 @@ Top pick per city (full shortlists in `hotels/`):
 | Chongqing | ✅ **Booked** | YOLO Eling Art Gallery Hotel | ~£75 | [hotels/chongqing_cool.md](hotels/chongqing_cool.md) |
 | Chengdu | ✅ **Booked** | Lyhn International Hotel Taikoo Li | £38 | [hotels/chengdu.md](hotels/chengdu.md) |
 | ~~Guangyuan~~ | ~~removed~~ | ~~Hampton by Hilton Lizhou Square~~ | ~~£33~~ | ~~removed from itinerary~~ |
-| Xi'an | ✅ **Booked** | WALL Hotel Chang'an | ~£35/room | [xian_bedrooms.md](hotels/xian_bedrooms.md), [xian_suites_v2.md](hotels/xian_suites_v2.md), [xian_cool.md](hotels/xian_cool.md) (10 picks) |
-| Beijing | 📋 Researched | Guo Ji Yi Yuan Hotel (Wangfujing) | £46 | [beijing_bedrooms.md](hotels/beijing_bedrooms.md), [beijing_suites_v2.md](hotels/beijing_suites_v2.md), [beijing_cool.md](hotels/beijing_cool.md) |
+| Xi'an | ✅ **Booked** | WALL Hotel Chang'an | ~£35/room | Sun 24 – Tue 26 May · [xian_bedrooms.md](hotels/xian_bedrooms.md), [xian_suites_v2.md](hotels/xian_suites_v2.md), [xian_cool.md](hotels/xian_cool.md) (10 picks) |
+| Beijing | 📋 Researched | Guo Ji Yi Yuan Hotel (Wangfujing) | £46 | Tue 26 – Sun 31 May · [beijing_bedrooms.md](hotels/beijing_bedrooms.md), [beijing_suites_v2.md](hotels/beijing_suites_v2.md), [beijing_cool.md](hotels/beijing_cool.md) |
 
 **Booked:**
 - 🏨 **Chongqing** (19–22 May) — YOLO Eling Art Gallery Hotel, 1930s Republic-era mint, 270° cliff views over the city
 - 🏨 **Chengdu** (22–24 May) — Lyhn International Hotel Taikoo Li, 9.6/10, ~£38/night
-- 🏨 **Xi'an** (24–27 May) — WALL Hotel Chang'an, 11-room micro-boutique against the city wall, ~£35/room/night
+- 🏨 **Xi'an** (24–26 May) — WALL Hotel Chang'an, 11-room micro-boutique against the city wall, ~£35/room/night
 
 **Still to book:** Beijing (research complete — see hotels/ for full shortlist)
