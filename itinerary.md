@@ -17,8 +17,8 @@
 | Thu 22 May | 🏨 Hotel check-in | Lyhn International Hotel Taikoo Li, Chengdu | Check-in (check out Chongqing) |
 | Sat 24 May | 🏨 Hotel check-in | WALL Hotel Chang'an, Xi'an | Check-in (check out Chengdu) |
 | Mon 26 May | 🏨 Hotel check-in | NOA Hotel Beijing Longfu, Beijing | Check-in (check out Xi'an) |
-| Sun 31 May | 🏨 Hotel check-out | NOA Hotel Beijing Longfu, Beijing | Check-out |
-| Sun 31 May | ✈ Flight | Beijing PKX → London LHR | China Southern CZ673 · Departs 14:15 · A350 Economy |
+| Sat 30 May | 🏨 Hotel check-out | NOA Hotel Beijing Longfu, Beijing | Check-out |
+| Sat 30 May | ✈ Flight | Beijing PKX → London LHR T4 | China Southern CZ673 · Departs 14:15 · Arrives 18:05 · A350 Economy (Class Q) · 1PC baggage |
 
 ## Schedule
 
@@ -44,7 +44,7 @@
 
 > ✈ **Mon 19 May** — Air China CA4576, PVG 12:05 → CKG 14:55
 
-> ✈ **Sun 31 May** — China Southern CZ673, PKX 14:15 → LHR · A350 Economy
+> ✈ **Sat 30 May** — China Southern CZ673, PKX 14:15 → LHR T4 18:05 · A350 Economy (Class Q) · 1PC baggage
 
 ## Nights per City
 - Shanghai: 3
@@ -64,14 +64,14 @@ Top pick per city (full shortlists in `hotels/`):
 | Chengdu | ✅ **Booked** | Lyhn International Hotel Taikoo Li | £38 | [hotels/chengdu.md](hotels/chengdu.md) |
 | ~~Guangyuan~~ | ~~removed~~ | ~~Hampton by Hilton Lizhou Square~~ | ~~£33~~ | ~~removed from itinerary~~ |
 | Xi'an | ✅ **Booked** | WALL Hotel Chang'an | ~£35/room | Sun 24 – Tue 26 May · [xian_bedrooms.md](hotels/xian_bedrooms.md), [xian_suites_v2.md](hotels/xian_suites_v2.md), [xian_cool.md](hotels/xian_cool.md) (10 picks) |
-| Beijing | ✅ **Booked** | NOA Hotel Beijing Longfu (The Forbidden City) | £46 | Tue 26 – Sun 31 May · [beijing_bedrooms.md](hotels/beijing_bedrooms.md), [beijing_suites_v2.md](hotels/beijing_suites_v2.md), [beijing_cool.md](hotels/beijing_cool.md) |
+| Beijing | ✅ **Booked** | NOA Hotel Beijing Longfu (The Forbidden City) | £46 | Tue 26 – Sat 30 May · [beijing_bedrooms.md](hotels/beijing_bedrooms.md), [beijing_suites_v2.md](hotels/beijing_suites_v2.md), [beijing_cool.md](hotels/beijing_cool.md) |
 
 **Booked:**
 - 🏨 **Shanghai** (16–19 May) — The Bund Puyan Hotel, The Bund
 - 🏨 **Chongqing** (19–22 May) — YOLO Eling Art Gallery Hotel, 1930s Republic-era mint, 270° cliff views over the city
 - 🏨 **Chengdu** (22–24 May) — Lyhn International Hotel Taikoo Li, 9.6/10, ~£38/night
 - 🏨 **Xi'an** (24–26 May) — WALL Hotel Chang'an, 11-room micro-boutique against the city wall, ~£35/room/night
-- 🏨 **Beijing** (26–31 May) — NOA Hotel Beijing Longfu, near the Forbidden City
+- 🏨 **Beijing** (26–30 May) — NOA Hotel Beijing Longfu, near the Forbidden City
 
 **Still to book:** All cities booked ✅
 
@@ -81,4 +81,4 @@ Top pick per city (full shortlists in `hotels/`):
 |------|-------|-----------|---------|--------|-----------|------|
 | Fri 15 May | London LGW N → Shanghai PVG T1 | 18:00 | 12:10 +1 (Sat 16 May) | China Eastern MU214 | ALEXANDRE PORTUGAL | 27A |
 | Mon 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | ALEXANDRE PORTUGAL | — |
-| Sun 31 May | Beijing PKX → London LHR | 14:15 | — | China Southern CZ673 | ALEXANDRE PORTUGAL | — |
+| Sat 30 May | Beijing PKX → London LHR T4 | 14:15 | 18:05 (LHR T4) | China Southern CZ673 · A350 · Class Q · 1PC baggage | ALEXANDRE PORTUGAL | — |
