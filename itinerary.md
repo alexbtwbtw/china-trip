@@ -11,11 +11,16 @@
 | Date | Type | Detail | Info |
 |------|------|--------|------|
 | Fri 15 May | ✈ Flight | London LGW → Shanghai PVG | China Eastern MU214 · Departs 18:00 · Seat 27A |
+| **Sat 16 – Mon 19 May** | 📍 **City** | **Shanghai** | 3 nights · The Bund Puyan Hotel |
 | Sat 16 May | 🏨 Hotel check-in | The Bund Puyan Hotel, Shanghai | Check-in |
 | Mon 19 May | ✈ Flight | Shanghai PVG → Chongqing CKG | Air China CA4576 · Departs 12:05 · Arrives 14:55 |
+| **Mon 19 – Thu 22 May** | 📍 **City** | **Chongqing** | 3 nights · YOLO Eling Art Gallery Hotel |
 | Mon 19 May | 🏨 Hotel check-in | YOLO Eling Art Gallery Hotel, Chongqing | Check-in |
+| **Thu 22 – Sat 24 May** | 📍 **City** | **Chengdu** | 2 nights · Lyhn International Hotel Taikoo Li |
 | Thu 22 May | 🏨 Hotel check-in | Lyhn International Hotel Taikoo Li, Chengdu | Check-in (check out Chongqing) |
+| **Sat 24 – Mon 26 May** | 📍 **City** | **Xi'an** | 2 nights · WALL Hotel Chang'an |
 | Sat 24 May | 🏨 Hotel check-in | WALL Hotel Chang'an, Xi'an | Check-in (check out Chengdu) |
+| **Mon 26 – Sat 30 May** | 📍 **City** | **Beijing** | 5 nights · NOA Hotel Beijing Longfu |
 | Mon 26 May | 🏨 Hotel check-in | NOA Hotel Beijing Longfu, Beijing | Check-in (check out Xi'an) |
 | Sat 30 May | 🏨 Hotel check-out | NOA Hotel Beijing Longfu, Beijing | Check-out |
 | Sat 30 May | ✈ Flight | Beijing PKX → London LHR T4 | China Southern CZ673 · Departs 14:15 · Arrives 18:05 · A350 Economy (Class Q) · 1PC baggage |
