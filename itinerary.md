@@ -76,8 +76,8 @@ Top pick per city (full shortlists in `hotels/`):
 
 ## Flights
 
-| Date | Route | Departure | Arrival | Flight | Passenger | Seat |
-|------|-------|-----------|---------|--------|-----------|------|
-| Fri 15 May | London LGW N → Shanghai PVG T1 | 18:00 | 12:10 +1 (Sat 16 May) | China Eastern MU214 | ALEXANDRE PORTUGAL | 27A |
-| Mon 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | ALEXANDRE PORTUGAL | — |
-| Sat 30 May | Beijing PKX → London LHR T4 | 14:15 | 18:05 (LHR T4) | China Southern CZ673 | ALEXANDRE PORTUGAL | — |
+| Date | Route | Departure | Arrival | Flight | Seat |
+|------|-------|-----------|---------|--------|------|
+| Fri 15 May | London LGW N → Shanghai PVG T1 | 18:00 | 12:10 +1 (Sat 16 May) | China Eastern MU214 | 27A |
+| Mon 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | — |
+| Sat 30 May | Beijing PKX → London LHR T4 | 14:15 | 18:05 (LHR T4) | China Southern CZ673 | — |
