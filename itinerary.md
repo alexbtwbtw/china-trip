@@ -23,7 +23,7 @@
 | **Mon 26 – Sat 30 May** | 📍 **City** | **Beijing** | 5 nights · NOA Hotel Beijing Longfu |
 | Mon 26 May | 🏨 Hotel check-in | NOA Hotel Beijing Longfu, Beijing | Check-in (check out Xi'an) |
 | Sat 30 May | 🏨 Hotel check-out | NOA Hotel Beijing Longfu, Beijing | Check-out |
-| Sat 30 May | ✈ Flight | Beijing PKX → London LHR T4 | China Southern CZ673 · Departs 14:15 · Arrives 18:05 · A350 Economy (Class Q) · 1PC baggage |
+| Sat 30 May | ✈ Flight | Beijing PKX → London LHR T4 | China Southern CZ673 · Departs 14:15 · Arrives 18:05 |
 
 ## Schedule
 
@@ -49,7 +49,7 @@
 
 > ✈ **Mon 19 May** — Air China CA4576, PVG 12:05 → CKG 14:55
 
-> ✈ **Sat 30 May** — China Southern CZ673, PKX 14:15 → LHR T4 18:05 · A350 Economy (Class Q) · 1PC baggage
+> ✈ **Sat 30 May** — China Southern CZ673, PKX 14:15 → LHR T4 18:05
 
 ## Nights per City
 - Shanghai: 3
@@ -86,4 +86,4 @@ Top pick per city (full shortlists in `hotels/`):
 |------|-------|-----------|---------|--------|-----------|------|
 | Fri 15 May | London LGW N → Shanghai PVG T1 | 18:00 | 12:10 +1 (Sat 16 May) | China Eastern MU214 | ALEXANDRE PORTUGAL | 27A |
 | Mon 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | ALEXANDRE PORTUGAL | — |
-| Sat 30 May | Beijing PKX → London LHR T4 | 14:15 | 18:05 (LHR T4) | China Southern CZ673 · A350 · Class Q · 1PC baggage | ALEXANDRE PORTUGAL | — |
+| Sat 30 May | Beijing PKX → London LHR T4 | 14:15 | 18:05 (LHR T4) | China Southern CZ673 | ALEXANDRE PORTUGAL | — |
