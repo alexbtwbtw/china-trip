@@ -35,6 +35,15 @@
 
 *Forbidden City, Tiananmen, Temple of Heaven, Summer Palace, Great Wall, 798, hutong evening*
 
+| Day | Plan |
+|-----|------|
+| Mon 26 May (eve) | Arrive · Tiananmen Square orientation · Wangfujing dinner |
+| Tue 27 May | Forbidden City (08:30) → Jingshan Park → Nanluoguxiang → Peking duck (Siji Minfu) |
+| Wed 28 May | Temple of Heaven → Summer Palace → Houhai lakeside evening |
+| Thu 29 May | Mutianyu Great Wall day trip → 798 Art District dinner |
+| Fri 30 May | Drum & Bell Towers · hutong rickshaw ride → Nanluoguxiang → Da Dong farewell duck |
+| Sat 30 May (morn) | Breakfast · checkout · Caoqiao → Daxing Express → PKX |
+
 ---
 
 ### Monday 26 May — Arrival Evening
@@ -131,6 +140,15 @@
 # Itinerary B — Hutong & Hidden Beijing
 
 *Skip the queues — neighbourhood cycling, local temples, lakes, food markets, authentic Peking duck*
+
+| Day | Plan |
+|-----|------|
+| Mon 26 May (eve) | Arrive · Wangfujing snack street · local Dongcheng dinner |
+| Tue 27 May | Hutong cycling (Drum Tower → Shichahai → Beihai Park) → Jingshan Park → Gulou dinner |
+| Wed 28 May | Lama Temple & Confucius Temple → Nanluoguxiang side hutongs → Bianyifang Peking duck |
+| Thu 29 May | Temple of Heaven morning practitioners → Liulichang antique street → Dongsi hutongs → Ghost Street dinner |
+| Fri 30 May | Panjiayuan flea market → National Museum → Quanjude farewell dinner |
+| Sat 30 May (morn) | Breakfast · checkout · Caoqiao → Daxing Express → PKX |
 
 ---
 
