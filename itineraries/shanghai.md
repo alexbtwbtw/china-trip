@@ -23,12 +23,12 @@
 
 *The Bund, Yu Garden and Old Town, Shanghai Museum, French Concession, Tianzifang, Pudong skyline*
 
-| Day | Plan |
-|-----|------|
-| Sat 16 May (eve) | Arrive · Bund walk · Pudong light show · Nanjing Road dinner |
-| Sun 17 May | Yu Garden → City God Temple → Nanxiang lunch → Shanghai Museum → Xintiandi → dinner |
-| Mon 18 May | Wukang & Anfu Road → Jia Jia Tang Bao lunch → Tianzifang → Shanghai Tower at dusk → Michelin dinner |
-| Tue 19 May (morn) | Breakfast · Bund walk · depart PVG 09:30 |
+| | **Sat 16 May** | **Sun 17 May** | **Mon 18 May** | **Tue 19 May** |
+|---|---|---|---|---|
+| **Morning** | Arrive & check in | Yu Garden · City God Temple | Wukang & Anfu Road walk | Breakfast · Bund walk · depart PVG |
+| **Lunch** | — | Nanxiang Mantou Dian | Jia Jia Tang Bao | — |
+| **Afternoon** | — | Shanghai Museum | Tianzifang | — |
+| **Dinner** | Bund walk · Pudong light show · Nanjing Road | Xintiandi | Shanghai Tower ⚠️ · Michelin dinner ⚠️ | — |
 
 ---
 
