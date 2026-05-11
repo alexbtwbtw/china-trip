@@ -10,6 +10,12 @@
 
 *Terracotta Warriors, City Wall bike ride, Muslim Quarter, Bell & Drum Towers, Tang Paradise*
 
+| Day | Plan |
+|-----|------|
+| Sat 24 May (eve) | Arrive · Bell Tower & Drum Tower · Muslim Quarter dinner (yangrou paomo, roujiamo) |
+| Sun 25 May | Terracotta Warriors (early) → city wall bike ride → Tang Paradise light show |
+| Mon 26 May (morn) | Dawn wall walk · breakfast · checkout · Xi'an North → Beijing |
+
 ---
 
 ### Saturday 24 May — Arrival Afternoon/Evening
@@ -78,6 +84,12 @@
 ## Itinerary B — Food & Culture Focus
 
 *Muslim Quarter deep dive, local street food breakfasts, Small Wild Goose Pagoda, Shaanxi History Museum, local noodle restaurants, evening city wall walk*
+
+| Day | Plan |
+|-----|------|
+| Sat 24 May (eve) | Arrive · wall walk · Great Mosque · Muslim Quarter deep dive & yangrou paomo dinner |
+| Sun 25 May | Street breakfast · Shaanxi History Museum · biang biang noodles · Small Wild Goose Pagoda · wall sunset · lamb noodle dinner |
+| Mon 26 May (morn) | Dawn wall walk · street breakfast · checkout · Xi'an North → Beijing |
 
 ---
 
