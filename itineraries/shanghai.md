@@ -1,10 +1,10 @@
 ﻿# Shanghai Itineraries
 
-**Dates:** Saturday 16 May - Monday 19 May 2026
+**Dates:** Saturday 16 May - Tuesday 19 May 2026
 **Party:** 2 people
 **Hotel:** The Bund Puyan Hotel, The Bund
-**Arrive:** Sat 16 May, flight lands ~12:10 PVG -- expect to reach hotel ~15:00-16:00
-**Depart:** Mon 19 May, leave hotel by 09:30 for 12:05 flight from PVG
+**Arrive:** Sat 16 May, flight lands ~12:10 PVG -- expect to reach hotel ~15:00
+**Depart:** Tue 19 May, leave hotel by 09:30 for 12:05 flight from PVG
 
 ---
 
@@ -21,77 +21,98 @@
 
 ## Itinerary A -- Classic Shanghai
 
-*The Bund, Yu Garden and Old Town, French Concession, Nanjing Road, Pudong skyline*
+*The Bund, Yu Garden and Old Town, Shanghai Museum, French Concession, Tianzifang, Pudong skyline*
 
 | Day | Plan |
 |-----|------|
-| Sat 16 May (eve) | Arrive · Bund waterfront walk · Pudong light show · Nanjing Road dinner |
-| Sun 17 May | Yu Garden & xiaolongbao → Wukang/Anfu Road walk → Tianzifang → Shanghai Tower at dusk → Fu He Hui Michelin dinner |
-| Mon 19 May (morn) | Light breakfast · Bund walk · depart 09:30 for PVG |
+| Sat 16 May (eve) | Arrive · Bund walk · Pudong light show · Nanjing Road dinner |
+| Sun 17 May | Yu Garden → City God Temple → Nanxiang lunch → Shanghai Museum → Xintiandi → dinner |
+| Mon 18 May | Wukang & Anfu Road → Jia Jia Tang Bao lunch → Tianzifang → Shanghai Tower at dusk → Michelin dinner |
+| Tue 19 May (morn) | Breakfast · Bund walk · depart PVG 09:30 |
 
 ---
 
-### Saturday 16 May -- Arrival Day
+### Saturday 16 May -- Arrival
 
-**Afternoon (arrive hotel ~15:00-16:00)**
+**Afternoon (arrive hotel ~15:00)**
 
 - Check in, drop bags.
-- Short walk to **The Bund waterfront promenade** (5 min from the hotel). Stroll the full 1.7 km from Waibaidu Bridge south toward Nanpu Bridge, taking in the Art Deco and Beaux-Arts facades along Zhongshan Road.
-- Stop at **Waibaidu Bridge** (Garden Bridge) at the northern end -- one of the best photo angles with the full skyline across the river.
+- Walk to **The Bund waterfront promenade** (5 min from the hotel). Stroll the full 1.7 km promenade, taking in the Art Deco and Beaux-Arts facades along Zhongshan Road.
 
 **Evening**
 
-- Return to the Bund at or just before sunset (around 18:30 in mid-May) to catch golden hour, then the Pudong light show. Shanghai Tower, Jin Mao Tower, and the bottle-opener SWFC light up from around 19:00-19:30 and are best seen from the Bund side.
-- **Optional 2-RMB ferry:** Dongchang Road ferry terminal (Bund side) to Lujiazui -- 2 RMB per person. The most cinematic way to cross the river and see the Bund from the Pudong bank. Ferry runs until around 22:00.
-- **Dinner:** Head to **Nanjing Road East** (Metro Line 2 or 10 to Nanjing Road East station, or 10-min walk from hotel). The pedestrianised strip has restaurants at every price point. For something more local, try the side lanes off Nanjing Road toward Yunnan Middle Road.
+- Return to the Bund for golden hour (~18:30 in mid-May), then the **Pudong light show**. Shanghai Tower, Jin Mao Tower, and the bottle-opener SWFC light up from around 19:00 and are best seen from the Bund side.
+- **Optional 2-RMB ferry:** Cross to Lujiazui and back -- 2 RMB per person. The most cinematic way to see the Bund from the Pudong bank. Ferry runs until around 22:00.
+- **Dinner:** **Nanjing Road East** (10-min walk from the hotel, or Metro Line 2/10 to Nanjing Road East station). The pedestrianised strip has restaurants at every price point. For something more local, try the side lanes off Nanjing Road toward Yunnan Middle Road.
 
 ---
 
-### Sunday 17 May -- Full Day
+### Sunday 17 May -- Old Town & Culture
 
-**Morning: Yu Garden and Old Town (09:00-12:00)**
+**09:30 leave hotel.**
+
+**Morning: Yu Garden and Old Town (10:00-13:00)**
 
 - Metro **Line 10** to **Yuyuan Garden station** (Exit 1 or 3). About 10 min.
-- **Yu Garden (Yu Yuan):** Classic Ming Dynasty garden. Arrive by 09:00 to beat the weekend crowds. Entry ~40 RMB. Allow 1-1.5 hrs.
-- **Nanxiang Mantou Dian:** Directly outside Yu Garden in the bazaar -- the most storied xiaolongbao shop in Old Town, founded 1900. Ground floor is fast takeaway; first floor is sit-down with slightly better quality. Expect a queue on Sunday; go early or accept the wait.
-- Wander the **Yuyuan Bazaar** and surrounding Old Town lanes (Fuyou Road, Chenxiang Ge area). The nearby **Chenghuang Temple** (City God Temple) exterior is free to see.
+- **Yu Garden (Yu Yuan):** Classic Ming Dynasty garden. Arrive ~10:00 to beat the weekend crowds. Entry ~40 RMB. Allow 1-1.5 hrs.
+- **City God Temple (Chenghuang Miao):** Right next door to Yu Garden. Free to see the exterior; small entry fee inside (~10 RMB). Allow 30 min.
+- **Nanxiang Mantou Dian lunch:** The century-old xiaolongbao shop in the Old Town bazaar, founded 1900. Queue early or accept a 15-20 min wait. Ground floor is fast takeaway; first floor is sit-down.
 
-**Midday: French Concession -- Lunch and Walk (12:30-17:00)**
+**Afternoon: Shanghai Museum and Xintiandi (13:30-19:00)**
 
-- Metro Line 10 or Line 1 to **South Shaanxi Road station** -- the heart of the French Concession.
-- **Wukang Road:** Walk the full ~700m length. This tree-lined boulevard is the most famous street in the French Concession, lined with 1920s-30s French and Italian villas. The landmark **Wukang Mansion** at the north end is the most-photographed building in Shanghai.
-- Connect to **Anfu Road** -- independent cafes, vintage boutiques, small galleries. Good for a mid-walk coffee stop. JZ Club jazz venue is on this street if you want to note it for the evening.
-- **Lunch:** **Jia Jia Tang Bao** has multiple French Concession locations and is the locals' favourite for xiaolongbao -- very affordable and genuinely excellent. Arrive early or expect a 15-20 min wait; they wrap to order so dumplings arrive extra hot.
-- Walk to **Tianzifang** (short walk or one stop on Line 9 to Dapuqiao, Exit 1): a maze of shikumen alleyways with over 200 art studios, craft shops, and cafes. Open daily roughly 10:00-22:00. Visit before 16:00 on weekends to avoid the heaviest crowds. Allow 1.5-2 hrs.
+- **Shanghai Museum (13:30):** Metro Line 10 to **People's Square** (~10 min from Old Town). Free entry but timed ticket required -- book in advance via the museum's official WeChat mini-program or website. World-class collection of bronzes, ceramics, calligraphy, and painting. Allow 2-2.5 hours. Closes 17:00, last entry 16:00.
+- **Xintiandi (16:30):** Metro Line 1 south to **Huangpi South Road** (~10 min). Restored shikumen (stone gate house) neighbourhood turned upscale dining and bar district. Pleasant for an early evening wander.
 
-**Late Afternoon: Pudong Skyline (17:00-20:00)**
+**Evening**
 
-- Metro Line 2 to **Lujiazui station** (Exit 6).
-- **Shanghai Tower observation deck (118th floor):** Book tickets online in advance -- tickets are time-slot-specific. Book via Klook, Trip.com, or the official Shanghai Tower website. Opens 08:30, last entry 20:30. The dusk slot (17:30-18:30) gives both daytime and illuminated night views in one visit. Standard ticket ~180 RMB. Bring your passport -- ID is checked at the entrance.
-- Views look directly across the Huangpu River to the Bund's historic facade.
+- Dinner in Xintiandi or the surrounding Huaihai Road area.
 
-**Evening: Michelin Dinner -- Fu He Hui (20:00 onwards)**
+---
+
+### Monday 18 May -- French Concession
+
+**09:30 leave hotel.**
+
+**Morning: Wukang Road and Anfu Road (10:00-12:30)**
+
+- Metro Line 9 or 11 to **Jiaotong University station**, walk to **Wukang Road (10:00)** -- the most famous street in the French Concession, ~700m of 1920s-30s French and Italian villas. **Wukang Mansion** at the north end is the most-photographed building in Shanghai. Walk the full length.
+- Connect to **Anfu Road** -- independent cafes, vintage boutiques, small galleries. Stop for coffee.
+
+**Lunch: Jia Jia Tang Bao (12:30)**
+
+- Locals' favourite xiaolongbao, very affordable. 15-20 min wait expected; they wrap to order so dumplings arrive extra hot.
+
+**Afternoon: Tianzifang (13:30-16:30)**
+
+- **Tianzifang:** Metro Line 9 to **Dapuqiao** (Exit 1). A maze of shikumen alleyways with art studios, craft shops, and cafes. Allow 1.5-2 hours. Visit before 16:00 to avoid peak crowds.
+
+**Late Afternoon: Shanghai Tower (17:00-19:30)**
+
+- **Shanghai Tower 118F (17:00):** DiDi from Tianzifang (~20 min). Pre-book a timed dusk slot (17:30-18:30) for both daytime and night views. Standard ticket ~180 RMB. Bring passport -- ID is checked at the entrance.
+- ⚠️ **Must book in advance** via Klook, Trip.com, or the official Shanghai Tower website.
+
+**Evening: Michelin Dinner -- Fu He Hui (20:00)**
 
 - **Fu He Hui (福和慧)** -- 2 Michelin stars (2025 Michelin Guide Shanghai)
   - **Cuisine:** Contemporary vegetarian Chinese -- tea-smoked and slow-cooked vegetables, tofu crafted to resemble traditional banquet dishes, seasonal ingredients rooted in Buddhist culinary philosophy. Ranked No. 11 in Asia's 50 Best Restaurants 2026.
-  - **Location:** 1037 Yuyuan Road, Changning District -- a 10-15 min DiDi from Tianzifang, or take Metro Line 10 to Yili Road and walk 10 min. Housed in a restored 1930s villa with a tranquil courtyard garden.
+  - **Location:** 1037 Yuyuan Road, Changning District. DiDi from Pudong ~20 min. Housed in a restored 1930s villa with a tranquil courtyard garden.
   - **Price:** Set tasting menu from ~¥999 per person (~£110); fruit pairing +¥298. No à la carte. Budget ¥1,300-1,400 per person all-in without wine.
-  - **Hours:** Sunday dinner 17:30-21:00 (last order 21:00). Arrive by 19:30-20:00 to allow time for the full menu.
-  - **Booking:** Reserve at least 48 hours ahead -- 1-2 weeks ahead recommended for weekend evenings. Book online via Chope (chope.net.cn) or Trip.com, or call +86 21 3980 9188. The Michelin Guide listing at guide.michelin.com also links to online reservations. **Advance reservation is essential -- walk-ins are not accepted.**
-  - **Note:** The vegetarian focus makes this a genuinely unusual experience for this price point. Even dedicated meat-eaters consistently report it as one of Shanghai's most memorable meals. If your party prefers meat-based fine dining, the rooftop at Bund 18 or the House of Roosevelt are reliable alternatives for drinks and dinner with Lujiazui views -- book ahead for Sunday evenings.
+  - **Hours:** Monday dinner 17:30-21:00 (last order 21:00). Arrive by 19:30-20:00 to allow time for the full menu.
+  - **Booking:** ⚠️ Must book 1-2 weeks ahead. Call +86 21 3980 9188 or book via Chope (chope.net.cn) / Trip.com. **Walk-ins are not accepted.**
+  - **Note:** The vegetarian focus makes this a genuinely unusual experience for this price point. Even dedicated meat-eaters consistently report it as one of Shanghai's most memorable meals. If your party prefers meat-based fine dining, the rooftop at Bund 18 or the House of Roosevelt are reliable alternatives for drinks and dinner with Lujiazui views -- book ahead.
 
 ---
 
-### Monday 19 May -- Morning Departure
+### Tuesday 19 May -- Departure
 
 **Leave hotel by 09:30. Keep this very light.**
 
-- **Early breakfast (07:30-08:30):** The Bund area has bakeries and cafes open early. Hotel breakfast if included is the easiest option.
-- **Brief Bund walk (08:30-09:00):** A 15-min stroll at this hour is peaceful and completely different in mood from the previous evening.
+- **Light breakfast (07:30):** Hotel breakfast if included is the easiest option. The Bund area has bakeries and cafes open early.
+- **Brief Bund walk (08:30):** The Bund at this hour is peaceful and has entirely different light from the previous evenings -- a good final 15 minutes.
 - **09:30 depart for PVG.**
-  - **By DiDi or taxi (recommended for luggage):** ~45-70 min to PVG depending on traffic. Book via the DiDi app (international cards work). Allow for surge pricing on Monday morning rush hours.
-  - **By Metro plus Maglev:** Metro Line 2 east to Longyang Road (~40-45 min from the People's Square area), then the **Shanghai Maglev** to PVG (~8 min, 50 RMB per person). Efficient if travelling light.
-- Aim to be at the PVG check-in desks by 10:00. International check-in cutoff is 60 min before departure (hard cutoff 11:05 for a 12:05 flight). Immigration and security at PVG can take 20-40 min on busy Monday mornings -- do not cut this close.
+  - **By DiDi or taxi (recommended for luggage):** ~45-70 min to PVG depending on traffic. Book via the DiDi app (international cards work). Allow for surge pricing during morning rush.
+  - **By Metro plus Maglev:** Metro Line 2 east to **Longyang Road** (~40-45 min from the Bund area), then the **Shanghai Maglev** to PVG (~8 min, 50 RMB per person). Efficient if travelling light.
+- Aim to be at PVG check-in by 10:00. Hard cutoff 11:05 (60 min before 12:05 departure). Immigration and security at PVG can take 20-40 min on busy Tuesday mornings -- do not cut this close.
 
 ---
 ---
