@@ -26,7 +26,7 @@
 | | **Sat 16 May** | **Sun 17 May** | **Mon 18 May** | **Tue 19 May** |
 |---|---|---|---|---|
 | **Morning** | Arrive & check in | Yu Garden · City God Temple | Wukang & Anfu Road walk | Breakfast · Bund walk · depart PVG |
-| **Lunch** | — | Street food around Yu Garden | Jia Jia Tang Bao | — |
+| **Lunch** | — | Street food around Yu Garden (Yuyuan Bazaar) | Jia Jia Tang Bao | — |
 | **Afternoon** | — | Shanghai Museum | Tianzifang | — |
 | **Dinner** | Bund walk · Pudong light show · Nanjing Road | Xintiandi | Shanghai Tower ⚠️ · Michelin dinner ⚠️ | — |
 
