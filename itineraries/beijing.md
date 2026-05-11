@@ -9,12 +9,12 @@
 
 | Date | Day | Type |
 |------|-----|------|
-| Mon 26 May | Arrive from Xi'an (rail ~5–6h or flight ~2h) | Arrival evening |
-| Tue 27 May | Full day |  |
-| Wed 28 May | Full day |  |
-| Thu 29 May | Full day |  |
-| Fri 30 May | Full day |  |
-| Sat 31 May | Morning only — depart by 11:00 |  |
+| Tue 26 May | Arrive from Xi'an (rail ~5–6h or flight ~2h) | Arrival evening |
+| Wed 27 May | Full day |  |
+| Thu 28 May | Full day |  |
+| Fri 29 May | Full day |  |
+| Sat 30 May | Full day |  |
+| Sat 30 May | Morning only — depart by 11:00 |  |
 
 > **Saturday transport note:** Take the Daxing Airport Express from **Caoqiao Station** (Lines 10/19) direct to PKX — journey is approximately **19–22 minutes**, fare CNY 35. Leave the hotel by 10:30–10:45 to arrive at PKX comfortably by ~12:00, giving 2+ hours before the 14:15 departure.
 
@@ -37,16 +37,16 @@
 
 | Day | Plan |
 |-----|------|
-| Mon 26 May (eve) | Arrive · Tiananmen Square orientation · Wangfujing dinner |
-| Tue 27 May | Forbidden City (08:30) → Jingshan Park → Nanluoguxiang → Peking duck (Siji Minfu) |
-| Wed 28 May | Temple of Heaven → Summer Palace → Houhai lakeside evening |
-| Thu 29 May | Mutianyu Great Wall day trip → 798 Art District dinner |
-| Fri 30 May | Drum & Bell Towers · hutong rickshaw ride → Nanluoguxiang → Da Dong farewell duck |
+| Tue 26 May (eve) | Arrive · Tiananmen Square orientation · Wangfujing dinner |
+| Wed 27 May | Forbidden City (08:30) → Jingshan Park → Nanluoguxiang → Peking duck (Siji Minfu) |
+| Thu 28 May | Temple of Heaven → Summer Palace → Houhai lakeside evening |
+| Fri 29 May | Mutianyu Great Wall day trip → 798 Art District dinner |
+| Sat 30 May | Drum & Bell Towers · hutong rickshaw ride → Nanluoguxiang → Da Dong farewell duck |
 | Sat 30 May (morn) | Breakfast · checkout · Caoqiao → Daxing Express → PKX |
 
 ---
 
-### Monday 26 May — Arrival Evening
+### Tuesday 26 May — Arrival Evening
 
 **Late Afternoon / Evening**
 - Arrive Beijing (rail from Xi'an ~5–6h; likely arrive 17:00–19:00). Check in to NOA Hotel Beijing Longfu.
@@ -56,7 +56,7 @@
 
 ---
 
-### Tuesday 27 May — Forbidden City & Tiananmen
+### Wednesday 27 May — Forbidden City & Tiananmen
 
 **Morning**
 - 08:30 — Be at the **Forbidden City** (Meridian Gate, Wumen) right at opening. This is the quietest window of the day. You will need your pre-booked tickets and passports.
@@ -74,7 +74,7 @@
 
 ---
 
-### Wednesday 28 May — Temple of Heaven & Summer Palace
+### Thursday 28 May — Temple of Heaven & Summer Palace
 
 **Morning**
 - 09:00 — **Temple of Heaven** (天坛). Enter via the North Gate. Buy the combined ticket (~CNY 34) for the park plus the Hall of Prayer for Good Harvests (the iconic circular building) and the Circular Mound Altar. Arrive early to watch elderly locals practising tai chi, calligraphy, and traditional dance in the park — a genuine slice of Beijing life. Allow 2–2.5 hours.
@@ -89,7 +89,7 @@
 
 ---
 
-### Thursday 29 May — Great Wall (Mutianyu)
+### Friday 29 May — Great Wall (Mutianyu)
 
 **Morning**
 - 07:30 — Depart hotel by hired car/taxi or a prearranged day-tour transfer. Journey to Mutianyu is approximately 1.5–2 hours from central Beijing.
@@ -108,7 +108,7 @@
 
 ---
 
-### Friday 30 May — Hutong Deep Dive & Farewell Dinner
+### Saturday 30 May — Hutong Deep Dive & Farewell Dinner
 
 **Morning**
 - 09:00 — **Drum Tower & Bell Tower** (鼓楼/钟楼) — two ancient towers in the heart of the hutong neighbourhood. Climb the Drum Tower for city views (CNY 30 each). The Bell Tower is free to enter. They are 100 m apart.
@@ -125,7 +125,7 @@
 
 ---
 
-### Saturday 31 May — Departure Morning
+### Saturday 30 May — Departure Morning
 
 **08:00** — Breakfast at hotel.
 **09:00** — Pack, check out (or store luggage if check-out is later).
@@ -143,26 +143,26 @@
 
 | Day | Plan |
 |-----|------|
-| Mon 26 May (eve) | Arrive · Wangfujing snack street · local Dongcheng dinner |
-| Tue 27 May | Hutong cycling (Drum Tower → Shichahai → Beihai Park) → Jingshan Park → Gulou dinner |
-| Wed 28 May | Lama Temple & Confucius Temple → Nanluoguxiang side hutongs → Bianyifang Peking duck |
-| Thu 29 May | Temple of Heaven morning practitioners → Liulichang antique street → Dongsi hutongs → Ghost Street dinner |
-| Fri 30 May | Panjiayuan flea market → National Museum → Quanjude farewell dinner |
+| Tue 26 May (eve) | Arrive · Wangfujing snack street · local Dongcheng dinner |
+| Wed 27 May | Hutong cycling (Drum Tower → Shichahai → Beihai Park) → Jingshan Park → Gulou dinner |
+| Thu 28 May | Lama Temple & Confucius Temple → Nanluoguxiang side hutongs → Bianyifang Peking duck |
+| Fri 29 May | Temple of Heaven morning practitioners → Liulichang antique street → Dongsi hutongs → Ghost Street dinner |
+| Sat 30 May | Panjiayuan flea market → National Museum → Quanjude farewell dinner |
 | Sat 30 May (morn) | Breakfast · checkout · Caoqiao → Daxing Express → PKX |
 
 ---
 
-### Monday 26 May — Arrival Evening
+### Tuesday 26 May — Arrival Evening
 
 **Late Afternoon / Evening**
 - Arrive Beijing. Check in to NOA Hotel Beijing Longfu.
 - 30-minute stroll to **Wangfujing Snack Street** — not touristy-kitsch, but a useful orientation walk with street food and atmosphere. Try bing (flatbread) and zhajiangmian noodles from a local stall.
 - Early dinner at a simple local restaurant in **Dongcheng** — ask the hotel for their neighbourhood recommendation (somewhere where menus are in Chinese with pictures). Your first real taste of local Beijing.
-- Rest — prepare for a full cycling day Tuesday.
+- Rest — prepare for a full cycling day Wednesday.
 
 ---
 
-### Tuesday 27 May — Hutong Cycling & Drum/Bell Towers
+### Wednesday 27 May — Hutong Cycling & Drum/Bell Towers
 
 **Morning**
 - 08:30 — Walk to the **Drum Tower** (Gulou) area, about 15 min from the hotel by subway or 25 min walk. Rent bikes from a local shop near the towers, or use the hotel's recommendation for a guided hutong cycling tour (3-hour tours run from around 09:00; operators include The Hutong cultural centre).
@@ -183,7 +183,7 @@
 
 ---
 
-### Wednesday 28 May — Lama Temple, Confucius Temple & Dongcheng
+### Thursday 28 May — Lama Temple, Confucius Temple & Dongcheng
 
 **Morning**
 - 09:00 — **Lama Temple** (雍和宫 Yonghe Gong) — Beijing's most spectacular Tibetan Buddhist temple complex, dating from 1694. Buy tickets at the gate (~CNY 25). Five halls, each more lavishly decorated than the last; the final hall contains an 18-metre sandalwood Buddha. The incense smoke and chanting give it a genuinely devotional atmosphere, not a museum-like one. Allow 1.5–2 hours. Go on a weekday to avoid weekend crowds.
@@ -203,7 +203,7 @@
 
 ---
 
-### Thursday 29 May — Local Food Markets & Hidden Temples
+### Friday 29 May — Local Food Markets & Hidden Temples
 
 **Morning**
 - 07:30 — **Donghuamen Night Market / Wangfujing area morning walk** — start the day early in the surrounding lanes before the tourists arrive. Pick up breakfast from a street vendor: jianbing (egg and scallion crepe, ~CNY 15), steamed buns, or tofu pudding.
@@ -219,7 +219,7 @@
 
 ---
 
-### Friday 30 May — Slow Morning, Local Market & Farewell
+### Saturday 30 May — Slow Morning, Local Market & Farewell
 
 **Morning**
 - 09:00 — **Panjiayuan Antique Market** (潘家园旧货市场) — Beijing's best flea market, busiest on weekends but open daily. Ceramics, Cultural Revolution memorabilia, old coins, jade, furniture, calligraphy. Great for gifts and browsing. Allow 1.5–2 hours.
@@ -237,7 +237,7 @@
 
 ---
 
-### Saturday 31 May — Departure Morning
+### Saturday 30 May — Departure Morning
 
 **08:00** — Breakfast at hotel.
 **09:00** — Pack and check out (or store bags). Last coffee in the neighbourhood.

@@ -26,7 +26,7 @@
 | | **Sat 16 May** | **Sun 17 May** | **Mon 18 May** | **Tue 19 May** |
 |---|---|---|---|---|
 | **Morning** | Arrive & check in | Yu Garden · City God Temple | Wukang & Anfu Road walk | Breakfast · Bund walk · depart PVG |
-| **Lunch** | — | Nanxiang Mantou Dian | Jia Jia Tang Bao | — |
+| **Lunch** | — | Street food around Yu Garden | Jia Jia Tang Bao | — |
 | **Afternoon** | — | Shanghai Museum | Tianzifang | — |
 | **Dinner** | Bund walk · Pudong light show · Nanjing Road | Xintiandi | Shanghai Tower ⚠️ · Michelin dinner ⚠️ | — |
 
@@ -56,7 +56,12 @@
 - Metro **Line 10** to **Yuyuan Garden station** (Exit 1 or 3). About 10 min.
 - **Yu Garden (Yu Yuan):** Classic Ming Dynasty garden. Arrive ~10:00 to beat the weekend crowds. Entry ~40 RMB. Allow 1-1.5 hrs.
 - **City God Temple (Chenghuang Miao):** Right next door to Yu Garden. Free to see the exterior; small entry fee inside (~10 RMB). Allow 30 min.
-- **Nanxiang Mantou Dian lunch:** The century-old xiaolongbao shop in the Old Town bazaar, founded 1900. Queue early or accept a 15-20 min wait. Ground floor is fast takeaway; first floor is sit-down.
+- **Street food lunch — Yuyuan Bazaar:** Graze the food stalls in the bazaar lanes surrounding the garden rather than sitting down. Good things to look for:
+  - **Crab shell pastries** (xiehe bing) — flaky sesame-crusted pastry with pork or red bean filling, baked in a clay oven
+  - **Xiaolongbao** — Nanxiang Mantou Dian (est. 1900) is right here if you want the iconic sit-down version, but takeaway from the ground floor or street stalls works too
+  - **Fried glutinous rice balls** (zha ci tuan) — crispy outside, chewy inside, filled with red bean
+  - **Persimmon cakes** and sesame flatbreads from pavement vendors
+  - **Fresh-squeezed pomegranate juice** — ubiquitous in the bazaar in spring
 
 **Afternoon: Shanghai Museum and Xintiandi (13:30-19:00)**
 

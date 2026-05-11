@@ -1,8 +1,8 @@
 # Chongqing Itinerary — 19–22 May 2026
 
 **Hotel:** YOLO Eling Art Gallery Hotel, 1 Eling Zhengjie Street, Yuzhong District
-**Check-in:** Monday 19 May (~16:00–16:30)
-**Check-out:** Thursday 22 May morning
+**Check-in:** Tuesday 19 May (~16:00–16:30)
+**Check-out:** Friday 22 May morning
 **Party:** 2 people
 
 ---
@@ -27,14 +27,14 @@ Chongqing is a "3D city" built across steep ridges between the Yangtze and Jiali
 
 | Day | Plan |
 |-----|------|
-| Mon 19 May (eve) | Arrive · Eling Park orientation · hot pot dinner · Hongyadong at night |
-| Tue 20 May | Ciqikou Ancient Town → Liziba station → Yangtze cable car → Raffles City sky bridge → Nanshan viewpoint · Nanbin Road dinner |
-| Wed 21 May | Three Gorges Museum & People's Great Hall → Shibati descent → Hongyadong → Eling Park night view |
-| Thu 22 May (morn) | Checkout · rail to Chengdu East (G-train ~1h15–1h50) |
+| Tue 19 May (eve) | Arrive · Eling Park orientation · hot pot dinner · Hongyadong at night |
+| Wed 20 May | Ciqikou Ancient Town → Liziba station → Yangtze cable car → Raffles City sky bridge → Nanshan viewpoint · Nanbin Road dinner |
+| Thu 21 May | Three Gorges Museum & People's Great Hall → Shibati descent → Hongyadong → Eling Park night view |
+| Fri 22 May (morn) | Checkout · rail to Chengdu East (G-train ~1h15–1h50) |
 
 ---
 
-### Monday Evening (arrive ~16:30)
+### Tuesday Evening (arrive ~16:30)
 
 **16:30 — Settle in, explore the hotel**
 YOLO Eling Art Gallery Hotel is housed in a restored 1930s Republic-era mint building. Take time to explore the building's galleries and rooftop viewing terrace. The cliffside position gives you a foretaste of the city's drama.
@@ -58,7 +58,7 @@ Return to hotel: Line 1 from Xiaoshizi westbound to Eling (~5 minutes).
 
 ---
 
-### Tuesday — Full Day
+### Wednesday — Full Day
 
 **Morning: Ciqikou Ancient Town (磁器口)**
 
@@ -87,7 +87,7 @@ Take a DiDi (~20 minutes, ~¥25) across the south bridge and up Nanshan to **Yi 
 
 ---
 
-### Wednesday — Full Day
+### Thursday — Full Day
 
 **Morning: Three Gorges Museum + People's Great Hall**
 Take a DiDi to Renmin Square (or Line 1 to Liziba, transfer to Line 2 to Niujiaotuo, then walk). The **Chongqing Three Gorges Museum (重庆中国三峡博物馆)** is free entry and excellent — ancient Ba culture artefacts, detailed wartime history (Chongqing was the WWII Nationalist capital), and a dramatic Yangtze River exhibit. Allow 1.5–2 hours. Right next door, the **People's Great Hall (人民大礼堂)** — a monumental 1950s domed assembly hall modelled on the Temple of Heaven — is free to enter at the grounds and courtyard level.
@@ -107,7 +107,7 @@ Dinner: small local Sichuan restaurants on the streets below Eling Park serve **
 
 ---
 
-### Thursday Morning — Departure
+### Friday Morning — Departure
 
 **07:00** — Final breakfast, pack up, check out.
 
@@ -128,14 +128,14 @@ Chongqing CKG to Chengdu TFU is ~50 minutes flying, but the added airport transi
 
 | Day | Plan |
 |-----|------|
-| Mon 19 May (eve) | Arrive · Eling Skywalk & Fotuguan Park · local neighbourhood dinner |
-| Tue 20 May | Longmenhao/Danzishi Old Street → Yangtze commuter ferry → Shibati → Huguang Guild Hall → Nanbin Road dinner |
-| Wed 21 May | Ciqikou at 08:30 → Shapingba market → Gele Mountain prison memorials → Liziba station → Erling Creative Park |
-| Thu 22 May (morn) | Checkout · rail to Chengdu East |
+| Tue 19 May (eve) | Arrive · Eling Skywalk & Fotuguan Park · local neighbourhood dinner |
+| Wed 20 May | Longmenhao/Danzishi Old Street → Yangtze commuter ferry → Shibati → Huguang Guild Hall → Nanbin Road dinner |
+| Thu 21 May | Ciqikou at 08:30 → Shapingba market → Gele Mountain prison memorials → Liziba station → Erling Creative Park |
+| Fri 22 May (morn) | Checkout · rail to Chengdu East |
 
 ---
 
-### Monday Evening (arrive ~16:30)
+### Tuesday Evening (arrive ~16:30)
 
 **16:30 — Settle in, explore the hotel**
 Same as Itinerary A: orient yourself at the hotel, visit the rooftop terrace, understand the cliff geography from both the building's vantage point and the hotel's gallery spaces.
@@ -148,7 +148,7 @@ Skip tourist hot pot tonight. Walk downhill from the hotel to the streets of the
 
 ---
 
-### Tuesday — Full Day
+### Wednesday — Full Day
 
 **Morning: Danzishi Old Street & Longmenhao**
 
@@ -182,7 +182,7 @@ Dinner along Nanbin Road: **Qin Ma Hot Pot** or any of the Sichuan restaurants f
 
 ---
 
-### Wednesday — Full Day
+### Thursday — Full Day
 
 **Morning: Ciqikou early + Shapingba neighbourhood**
 
@@ -210,7 +210,7 @@ Spend your last evening close to the hotel. Climb up to Eling Park for a final n
 
 ---
 
-### Thursday Morning — Departure
+### Friday Morning — Departure
 
 Same logistics as Itinerary A.
 

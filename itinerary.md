@@ -12,11 +12,11 @@
 |------|------|------|--------|------|
 | Fri 15 May | Shanghai | ✈ Flight | London LGW → Shanghai PVG | China Eastern MU214 · Departs 18:00 · Seat 27A |
 | Sat 16 May | Shanghai | 🏨 Hotel check-in | The Bund Puyan Hotel | Check-in |
-| Mon 19 May | Chongqing | ✈ Flight | Shanghai PVG → Chongqing CKG | Air China CA4576 · Departs 12:05 · Arrives 14:55 |
-| Mon 19 May | Chongqing | 🏨 Hotel check-in | YOLO Eling Art Gallery Hotel | Check-in |
-| Thu 22 May | Chengdu | 🏨 Hotel check-in | Lyhn International Hotel Taikoo Li | Check-in (check out Chongqing) |
-| Sat 24 May | Xi'an | 🏨 Hotel check-in | WALL Hotel Chang'an | Check-in (check out Chengdu) |
-| Mon 26 May | Beijing | 🏨 Hotel check-in | NOA Hotel Beijing Longfu | Check-in (check out Xi'an) |
+| Tue 19 May | Chongqing | ✈ Flight | Shanghai PVG → Chongqing CKG | Air China CA4576 · Departs 12:05 · Arrives 14:55 |
+| Tue 19 May | Chongqing | 🏨 Hotel check-in | YOLO Eling Art Gallery Hotel | Check-in |
+| Fri 22 May | Chengdu | 🏨 Hotel check-in | Lyhn International Hotel Taikoo Li | Check-in (check out Chongqing) |
+| Sun 24 May | Xi'an | 🏨 Hotel check-in | WALL Hotel Chang'an | Check-in (check out Chengdu) |
+| Tue 26 May | Beijing | 🏨 Hotel check-in | NOA Hotel Beijing Longfu | Check-in (check out Xi'an) |
 | Sat 30 May | Beijing | 🏨 Hotel check-out | NOA Hotel Beijing Longfu | Check-out |
 | Sat 30 May | London | ✈ Flight | Beijing PKX → London LHR T4 | China Southern CZ673 · Departs 14:15 · Arrives 18:05 |
 
@@ -24,25 +24,25 @@
 
 | Date       | Day | City            | Nights |
 | ---------- | --- | --------------- | ------ |
-| Fri 16 May | 1   | Shanghai        | night 1 |
-| Sat 17 May | 2   | Shanghai        | night 2 |
-| Sun 18 May | 3   | Shanghai        | night 3 |
-| Mon 19 May | 4   | Chongqing       | night 1 |
-| Tue 20 May | 5   | Chongqing       | night 2 |
-| Wed 21 May | 6   | Chongqing       | night 3 |
-| Thu 22 May | 7   | Chengdu         | night 1 |
-| Fri 23 May | 8   | Chengdu         | night 2 |
-| Sat 24 May | 9   | Xi'an           | night 1 |
-| Sun 25 May | 10  | Xi'an           | night 2 |
-| Mon 26 May | 11  | Beijing         | night 1 |
-| Tue 27 May | 12  | Beijing         | night 2 |
-| Wed 28 May | 13  | Beijing         | night 3 |
-| Thu 29 May | 14  | Beijing         | night 4 |
-| Fri 30 May | 15  | Beijing         | night 5 |
+| Sat 16 May | 1   | Shanghai        | night 1 |
+| Sun 17 May | 2   | Shanghai        | night 2 |
+| Mon 18 May | 3   | Shanghai        | night 3 |
+| Tue 19 May | 4   | Chongqing       | night 1 |
+| Wed 20 May | 5   | Chongqing       | night 2 |
+| Thu 21 May | 6   | Chongqing       | night 3 |
+| Fri 22 May | 7   | Chengdu         | night 1 |
+| Sat 23 May | 8   | Chengdu         | night 2 |
+| Sun 24 May | 9   | Xi'an           | night 1 |
+| Mon 25 May | 10  | Xi'an           | night 2 |
+| Tue 26 May | 11  | Beijing         | night 1 |
+| Wed 27 May | 12  | Beijing         | night 2 |
+| Thu 28 May | 13  | Beijing         | night 3 |
+| Fri 29 May | 14  | Beijing         | night 4 |
+| Sat 30 May | 15  | Beijing         | night 5 |
 
 > ✈ **Fri 15 May** — China Eastern MU214, LGW 18:00 → PVG 12:10+1 (arrives Sat 16 May) · Seat 27A
 
-> ✈ **Mon 19 May** — Air China CA4576, PVG 12:05 → CKG 14:55
+> ✈ **Tue 19 May** — Air China CA4576, PVG 12:05 → CKG 14:55
 
 > ✈ **Sat 30 May** — China Southern CZ673, PKX 14:15 → LHR T4 18:05
 
@@ -79,5 +79,5 @@ Top pick per city (full shortlists in `hotels/`):
 | Date | Route | Departure | Arrival | Flight | Seat |
 |------|-------|-----------|---------|--------|------|
 | Fri 15 May | London LGW N → Shanghai PVG T1 | 18:00 | 12:10 +1 (Sat 16 May) | China Eastern MU214 | 27A |
-| Mon 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | — |
+| Tue 19 May | Shanghai PVG → Chongqing CKG | 12:05 | 14:55 | Air China CA4576 | — |
 | Sat 30 May | Beijing PKX → London LHR T4 | 14:15 | 18:05 (LHR T4) | China Southern CZ673 | — |

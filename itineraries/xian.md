@@ -1,6 +1,6 @@
 # Xi'an Itinerary — 24–26 May 2026
 
-**Travel:** Arrive Saturday 24 May from Chengdu (high-speed rail ~3.5–4h, or flight ~1h). Depart Monday 26 May morning to Beijing (high-speed rail ~4.5–6h on G-train from Xi'an North, or flight ~2h).
+**Travel:** Arrive Sunday 24 May from Chengdu (high-speed rail ~3.5–4h, or flight ~1h). Depart Tuesday 26 May morning to Beijing (high-speed rail ~4.5–6h on G-train from Xi'an North, or flight ~2h).
 
 **Hotel:** WALL Hotel Chang'an — micro-boutique hotel built directly against the ancient city wall, in the heart of the walled city. Being on the wall is the defining feature of the stay: use it freely at any hour.
 
@@ -12,13 +12,13 @@
 
 | Day | Plan |
 |-----|------|
-| Sat 24 May (eve) | Arrive · Bell Tower & Drum Tower · Muslim Quarter dinner (yangrou paomo, roujiamo) |
-| Sun 25 May | Terracotta Warriors (early) → city wall bike ride → Tang Paradise light show |
-| Mon 26 May (morn) | Dawn wall walk · breakfast · checkout · Xi'an North → Beijing |
+| Sun 24 May (eve) | Arrive · Bell Tower & Drum Tower · Muslim Quarter dinner (yangrou paomo, roujiamo) |
+| Mon 25 May | Terracotta Warriors (early) → city wall bike ride → Tang Paradise light show |
+| Tue 26 May (morn) | Dawn wall walk · breakfast · checkout · Xi'an North → Beijing |
 
 ---
 
-### Saturday 24 May — Arrival Afternoon/Evening
+### Sunday 24 May — Arrival Afternoon/Evening
 
 **Afternoon (arrive ~13:00–14:00)**
 
@@ -39,7 +39,7 @@
 
 ---
 
-### Sunday 25 May — Full Day
+### Monday 25 May — Full Day
 
 **Early morning: Terracotta Warriors**
 
@@ -64,11 +64,11 @@
 
 **Practical notes:**
 - Tang Paradise is a 20–30 minute taxi or metro ride south of the city wall (near Big Wild Goose Pagoda).
-- Sunday in Xi'an is busy; the wall bike ride in mid-afternoon avoids the morning rush but also the heat of noon.
+- Monday in Xi'an is less busy than weekends; the wall bike ride in mid-afternoon avoids the morning rush but also the heat of noon.
 
 ---
 
-### Monday 26 May — Morning Departure
+### Tuesday 26 May — Morning Departure
 
 **Morning**
 
@@ -87,13 +87,13 @@
 
 | Day | Plan |
 |-----|------|
-| Sat 24 May (eve) | Arrive · wall walk · Great Mosque · Muslim Quarter deep dive & yangrou paomo dinner |
-| Sun 25 May | Street breakfast · Shaanxi History Museum · biang biang noodles · Small Wild Goose Pagoda · wall sunset · lamb noodle dinner |
-| Mon 26 May (morn) | Dawn wall walk · street breakfast · checkout · Xi'an North → Beijing |
+| Sun 24 May (eve) | Arrive · wall walk · Great Mosque · Muslim Quarter deep dive & yangrou paomo dinner |
+| Mon 25 May | Street breakfast · Shaanxi History Museum · biang biang noodles · Small Wild Goose Pagoda · wall sunset · lamb noodle dinner |
+| Tue 26 May (morn) | Dawn wall walk · street breakfast · checkout · Xi'an North → Beijing |
 
 ---
 
-### Saturday 24 May — Arrival Afternoon/Evening
+### Sunday 24 May — Arrival Afternoon/Evening
 
 **Afternoon (arrive ~13:00–14:00)**
 
@@ -110,7 +110,7 @@
 
 ---
 
-### Sunday 25 May — Full Day
+### Monday 25 May — Full Day
 
 **Morning: Local Breakfast + Shaanxi History Museum**
 
@@ -147,7 +147,7 @@
 
 ---
 
-### Monday 26 May — Morning Departure
+### Tuesday 26 May — Morning Departure
 
 **Morning**
 

@@ -1,8 +1,8 @@
 # Chengdu Itinerary — 22–24 May 2026
 
 **Hotel:** Lyhn International Hotel Taikoo Li (Taikoo Li district, central Chengdu)
-**Arrive:** Thursday 22 May, ~14:00–15:00 from Chongqing (high-speed rail, ~2h)
-**Depart:** Saturday 24 May, leave hotel ~08:00–09:00 for Xi'an (high-speed rail ~3.5–4h from Chengdu East / Chengdu South, or flight ~1h)
+**Arrive:** Friday 22 May, ~14:00–15:00 from Chongqing (high-speed rail, ~2h)
+**Depart:** Sunday 24 May, leave hotel ~08:00–09:00 for Xi'an (high-speed rail ~3.5–4h from Chengdu East / Chengdu South, or flight ~1h)
 
 ---
 
@@ -12,13 +12,13 @@
 
 | Day | Plan |
 |-----|------|
-| Thu 22 May (eve) | Arrive · Taikoo Li & Chunxi Road walk · Sichuan dinner |
-| Fri 23 May | Giant Panda Base → Wuhou Shrine → Jinli Ancient Street → Kuanzhai Alley → hotpot dinner |
-| Sat 24 May (morn) | Breakfast · checkout · head to Xi'an |
+| Fri 22 May (eve) | Arrive · Taikoo Li & Chunxi Road walk · Sichuan dinner |
+| Sat 23 May | Giant Panda Base → Wuhou Shrine → Jinli Ancient Street → Kuanzhai Alley → hotpot dinner |
+| Sun 24 May (morn) | Breakfast · checkout · head to Xi'an |
 
 ---
 
-### Thursday 22 May — Afternoon & Evening
+### Friday 22 May — Afternoon & Evening
 
 **Arrive & settle in (~14:00–15:30)**
 Check into Lyhn International Hotel Taikoo Li. Drop bags, freshen up. The hotel is right in the Taikoo Li lifestyle district — step outside and you're already in one of Chengdu's most atmospheric areas.
@@ -38,12 +38,12 @@ After dinner, take an evening walk back through Taikoo Li — it's beautifully l
 
 ---
 
-### Friday 23 May — Full Day
+### Saturday 23 May — Full Day
 
 > **GIANT PANDA BASE — ADVANCE BOOKING REQUIRED**
 > Since 2026, the Chengdu Research Base of Giant Panda Breeding operates on a 100% pre-booked digital system — physical ticket windows are closed. There are no walk-up tickets.
 >
-> - **Book tonight (Thursday):** Use **Trip.com** (recommended for non-Chinese passport holders) or the official WeChat Mini Program / Meituan app. Book at least 2–3 days ahead if possible, but same-day-prior booking is often available for the early slot.
+> - **Book tonight (Friday):** Use **Trip.com** (recommended for non-Chinese passport holders) or the official WeChat Mini Program / Meituan app. Book at least 2–3 days ahead if possible, but same-day-prior booking is often available for the early slot.
 > - **Target the 07:30 entry slot** — this is the best time. Pandas are fed breakfast between 08:00–09:30 and are most active. By mid-morning they retreat to sleep for the rest of the day.
 > - **Bring your passports** — staff scan them at the gate to match your booking.
 > - **Ticket price:** ~55 RMB per person (adult).
@@ -75,7 +75,7 @@ End the night with a stroll along the lit-up streets back toward the hotel.
 
 ---
 
-### Saturday 24 May — Morning only
+### Sunday 24 May — Morning only
 
 **Leave hotel by 08:00–09:00.**
 
@@ -99,13 +99,13 @@ Allow plenty of time. Don't leave the hotel later than **08:30** to be safe.
 
 | Day | Plan |
 |-----|------|
-| Thu 22 May (eve) | Arrive · Wenshu Monastery · local Sichuan dinner · Taikoo Li evening wander |
-| Fri 23 May | People's Park & Heming Teahouse · Sichuan opera · Kuanzhai Alley · neighbourhood stroll · hotpot dinner |
-| Sat 24 May (morn) | Breakfast · checkout · head to Xi'an |
+| Fri 22 May (eve) | Arrive · Wenshu Monastery · local Sichuan dinner · Taikoo Li evening wander |
+| Sat 23 May | People's Park & Heming Teahouse · Sichuan opera · Kuanzhai Alley · neighbourhood stroll · hotpot dinner |
+| Sun 24 May (morn) | Breakfast · checkout · head to Xi'an |
 
 ---
 
-### Thursday 22 May — Afternoon & Evening
+### Friday 22 May — Afternoon & Evening
 
 **Arrive & settle in (~14:00–15:30)**
 Check into Lyhn International Hotel Taikoo Li. Take your time settling in — Itinerary B runs at a slower pace throughout.
@@ -125,7 +125,7 @@ After dinner, explore Taikoo Li in the evening — the courtyards fill up, the l
 
 ---
 
-### Friday 23 May — Full Day
+### Saturday 23 May — Full Day
 
 **Morning — People's Park & Heming Teahouse (~09:00–12:00)**
 Take a taxi or walk (~25 min) to People's Park (Renmin Gongyuan). Arrive by 09:30 to get a good waterside seat at **Heming Teahouse**, one of Chengdu's oldest and most atmospheric teahouses, right on the lake. A gaiwan (lidded cup) of tea costs ~30 RMB and lasts as long as you like — refills are included. Order: green tea (biluochun) or jasmine tea (moli hua cha).
@@ -154,7 +154,7 @@ End with a slow walk through Taikoo Li's evening atmosphere — the lanes are at
 
 ---
 
-### Saturday 24 May — Morning only
+### Sunday 24 May — Morning only
 
 **Leave hotel by 08:00–09:00.**
 
@@ -164,7 +164,7 @@ One last Chengdu breakfast:
 - Or a bowl of **hong you chao shou** (pork wontons in chilli oil) — a Chengdu street staple and arguably the best possible final meal before a train.
 
 **Check out & head to station**
-- **Chengdu East Station (Chengdu Dong)** for high-speed rail to Xi'an (~3.5–4h on G-class trains). Taxi from Taikoo Li is ~30–40 min in normal traffic; allow extra time for Friday-morning traffic. Metro Line 2 is a reliable backup (~50 min to the station).
+- **Chengdu East Station (Chengdu Dong)** for high-speed rail to Xi'an (~3.5–4h on G-class trains). Taxi from Taikoo Li is ~30–40 min in normal traffic; allow extra time for Sunday-morning traffic. Metro Line 2 is a reliable backup (~50 min to the station).
 - **Chengdu Tianfu Airport** if flying (~45–60 min by taxi).
 
 Leave the hotel no later than **08:30** to be comfortable.
@@ -180,4 +180,4 @@ Leave the hotel no later than **08:30** to be comfortable.
 | **Language** | English signage is limited outside major tourist sites. Screenshots of attraction names in Chinese characters help enormously with taxi drivers. |
 | **Spice levels** | Sichuan food uses Sichuan peppercorn (ma — numbing) and chilli (la — heat). "Slightly spicy" (wei la) is a reasonable starting request if unsure. |
 | **Weather (May)** | Chengdu in late May is warm and humid, ~22–28°C. Rain is possible; a light layer and compact umbrella are useful. |
-| **Saturday trains** | Book Chengdu–Xi'an high-speed rail tickets in advance on Trip.com or the 12306 app. G-class trains run regularly; ~3.5–4h depending on service. |
+| **Sunday trains** | Book Chengdu–Xi'an high-speed rail tickets in advance on Trip.com or the 12306 app. G-class trains run regularly; ~3.5–4h depending on service. |
