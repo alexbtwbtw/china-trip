@@ -10,6 +10,12 @@
 
 *Giant Panda Base, Jinli Ancient Street, Kuanzhai Alley, Sichuan food highlights.*
 
+| Day | Plan |
+|-----|------|
+| Thu 22 May (eve) | Arrive · Taikoo Li & Chunxi Road walk · Sichuan dinner |
+| Fri 23 May | Giant Panda Base → Wuhou Shrine → Jinli Ancient Street → Kuanzhai Alley → hotpot dinner |
+| Sat 24 May (morn) | Breakfast · checkout · head to Xi'an |
+
 ---
 
 ### Thursday 22 May — Afternoon & Evening
@@ -90,6 +96,12 @@ Allow plenty of time. Don't leave the hotel later than **08:30** to be safe.
 ## Itinerary B — Local & Relaxed
 
 *Skip the panda queues. Teahouses, temples, People's Park, neighbourhood eating, mahjong-watching.*
+
+| Day | Plan |
+|-----|------|
+| Thu 22 May (eve) | Arrive · Wenshu Monastery · local Sichuan dinner · Taikoo Li evening wander |
+| Fri 23 May | People's Park & Heming Teahouse · Sichuan opera · Kuanzhai Alley · neighbourhood stroll · hotpot dinner |
+| Sat 24 May (morn) | Breakfast · checkout · head to Xi'an |
 
 ---
 
